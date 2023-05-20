@@ -1,0 +1,1261 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from botsplit.com/seller-profile/eyJpdiI6IlhPMFIrUUFXSlVpWnovSGFjZWcrOGc9PSIsInZhbHVlIjoiVStQdkpWNk5FeGpoeDJpRGZxYnd0Zz09IiwibWFjIjoiZTlkMTZkNmU2NmQ1NGQ5NTI3OTM4NWJlODkxMmZhOTM0ZjkyZWU1OTUzYmNiMTE4YjBlNGM3ZDcwNDU4ZWI1OSJ9 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 May 2023 22:41:37 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="NFT Buy/Sell Marketplace">
+    <meta name="keywords" content="crypto currency, currency, crypto, nft marketplace, NFT, nft, NFT marketplace">
+    <meta name="author" content="zainiktheme">
+    <meta name="csrf-token" content="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+    <meta property="og:type" content="Web Template">
+    <meta property="og:title" content="BOTSPLIT NFT -  Buy/Sell Marketplace">
+    <meta property="og:description" content="NFT Buy/Sell Marketplace">
+    <meta property="og:image" content="../assets/user/img/01_preview.html">
+    <meta name="twitter:card" content="zainiktheme">
+    <meta name="twitter:title" content="BOTSPLIT NFT -  Buy/Sell Marketplace">
+    <meta name="twitter:description" content="NFT Buy/Sell Marketplace">
+  
+
+        <title>BOTSPLIT NFT</title>
+    <!--=======================================
+      All Css Style link
+    ===========================================-->
+    <!-- Bootstrap core CSS -->
+    <link href="../assets/user/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="../assets/user/css/jquery-ui.min.css" rel="stylesheet">
+
+    <!-- Font Awesome for this template -->
+    <link href="../assets/user/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Flat Icon for this template -->
+    <link href="../assets/user/vendor/flat-icon/flaticon.css" rel="stylesheet" type="text/css">
+
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet">
+
+    <!-- Animate Css-->
+    <link rel="stylesheet" href="../assets/user/css/animate.min.css">
+
+    <link rel="stylesheet" href="../assets/user/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../assets/user/css/owl.theme.default.min.css">
+
+    <!-- DataTables -->
+    <link rel="stylesheet" type="text/css" href="../assets/user/vendor/datatable/css/dataTables.bootstrap4.min.css"/>
+    <link rel="stylesheet" type="text/css" href="../assets/user/vendor/datatable/css/responsive.dataTables.min.css"/>
+
+    <link rel="stylesheet" href="../assets/user/css/nice-select.css">
+
+    <!-- Custom styles for this template -->
+    <link href="../assets/user/css/style.css" rel="stylesheet">
+    <!-- Extra CSS -->
+    <link href="../assets/user/css/extra.css" rel="stylesheet">
+
+    <!-- Responsive Css-->
+    <link rel="stylesheet" href="../assets/user/css/responsive.css">
+
+    
+    <!-- FAVICONS -->
+  
+    <link rel="shortcut icon" href="../../www.botsplit.com/uploaded_file/uploads/62ded9271a8061658771751.png">
+
+ 
+
+</head>
+<body class="direction-ltr">
+<!-- Modal content-->
+<!-- Pre Loader Area start -->
+<div id="preloader">
+    <div id="status" style="background-image: url(../uploaded_file/uploads/62ded9271dce21658771751.png)"></div>
+</div>
+<!-- Pre Loader Area End -->
+
+<!--Main Menu/Navbar Area Start -->
+
+<!-- Desktop Menu Start -->
+<section class="menu-section-area ">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="../index.html"><img src="../uploaded_file/uploads/62deda0403e6d1658771972.png" alt="Botsplit NFT"></a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav text-capitalize mr-auto">
+                    
+                     <li class="nav-item">
+                        <a class="nav-link " href="../index.html">Home</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link " href="../discover.html">Explore</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="../how-it-works.html">FAQ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="../news.html">Noticias</a>
+                    </li>
+                    
+                      <li class="nav-item">
+                        <a class="nav-link " href="../contact.html">Contact us</a>
+                    </li>
+                    
+                </ul>
+                <div class="header-right-nav my-2 my-lg-0 d-flex">
+                  <!--  <form class="searchbox" method="GET" action="#">
+                        <input type="hidden" id="search-url" value="https://botsplit.com/search-result-ajax">
+                        <input type="text" placeholder="Search..." name="keyword" class="searchbox-input" id="search-service" autocomplete="off">
+                        <button type="submit" class="searchbox-submit searchbox-icon nav-search menu-round-btn"><i class="fas fa-search"></i></button>
+                        <span class="searchbox-icon"><i class="fas fa-search"></i></span>
+                        
+                        <div class="menu-search-result-dropdown-box position-absolute d-none" id="search-work">
+                            <ul class="list-unstyled" id="search-result">
+                            </ul>
+                        </div>
+                        
+                    </form> -->
+                    <ul class="header-right-menu-ul">
+                        <li class="nav-item dropdown language-dropdown">
+                            <button class="menu-round-btn dropdown-toggle" id="notificationNavbarDropdown1" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fa fa-language"></i>
+                            </button>
+
+                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="notificationNavbarDropdown1">
+                                                                    <a class="dropdown-item notification-item d-flex align-items-center " href="../product/view/eyJpdiI6IkZ5WllhMUJsUFZvUjdIUzd3MlN1K2c9PSIsInZhbHVlIjoiZDZ4cjZhNmFld2pYeDBtYUMzd20yQT09IiwibWFjIjoiYzAyNTJkNjk1MDI3MDQ3NGU1MGFkM2UxZTgwYTNjZWIxMzJiNTlkNzBmZjNjNTg2NjYyMjZkZGM5MzVkM2E3OCJ9.2?lang=ar">
+                                        <div class="notification-right-content">
+                                            <h6 class="font-medium font-dms">Arabic</h6>
+                                        </div>
+                                    </a>
+                                    <div class="dropdown-divider"></div>
+                                                                    <a class="dropdown-item notification-item d-flex align-items-center " href="../product/view/eyJpdiI6IkhwbGlIalBINkYwMUpvOEZQVHhLNEE9PSIsInZhbHVlIjoiOGJaZ2RUWkVwUWVKUWJOUmJ0M1hOZz09IiwibWFjIjoiNWQ4OTg1ODBhYzY1MWE2MjQ1YWY3ZjZmNmJhYjk2MTZiNGMyOTE0Y2M2NTIyZDEwNTkyNDMxNzUwMjljZDljYiJ9.3?lang=en">
+                                        <div class="notification-right-content">
+                                            <h6 class="font-medium font-dms">English</h6>
+                                        </div>
+                                    </a>
+                                    <div class="dropdown-divider"></div>
+                                                                    <a class="dropdown-item notification-item d-flex align-items-center unread" href="../product/view/eyJpdiI6InBISUdMOUQ5UmszdXdCLzNqT2ZqT0E9PSIsInZhbHVlIjoibnROWXpFMjBYbFdUZGN3aFhLVk1FQT09IiwibWFjIjoiYzY1NjgxNjMwMzA3ZTQ2OGU0NDk4OWY4ZTczODE1N2EwZTI1YjA4YmVjNzEzNWUyYzFmOTM0NWFhYjVmYTMxYyJ9.7?lang=es">
+                                        <div class="notification-right-content">
+                                            <h6 class="font-medium font-dms">Spanish</h6>
+                                        </div>
+                                    </a>
+                                    <div class="dropdown-divider"></div>
+                                                            </div>
+
+                        </li>
+                        <!-- If isLoginMenu Then Show Menu User Box -->
+                                                    <li><a data-toggle="modal" href="#signInModal" class="theme-button1 nav-upload">Subir</a></li>
+                            <li class="nav-wallet"><a data-toggle="modal" href="#signInModal" class="theme-button2">Sign Up</a></li>
+                                        <!-- If isLoginMenu Then Show Menu User Box -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- Navigation -->
+</section>
+<!-- Desktop Menu End -->
+<!-- Start Mobile Header -->
+<div class="mobile-header ">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 d-flex align-items-center justify-content-between">
+                <!-- Start Mobile Left Side -->
+                <div class="mobile-header-left">
+                    <ul class="mobile-menu-logo">
+                        <li>
+                            <a href="../index.html">
+                                <div class="logo">
+                                    <img src="../assets/user/img/botsplit-logo.png" alt="Botsplit NFT" />
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- End Mobile Left Side -->
+                <!-- Start Mobile Right Side -->
+                <div class="mobile-right-side">
+                    <ul class="header-action-link d-flex align-items-center">
+                                                <li>
+                            <a href="#mobile-menu-offcanvas" class="offcanvas-toggle offside-menu">
+                                <i class="fas fa-bars"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- End Mobile Right Side -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Mobile Header -->
+
+<!--  Start Offcanvas Mobile Menu Section -->
+<div id="mobile-menu-offcanvas" class="offcanvas offcanvas-rightside offcanvas-mobile-menu-section">
+    <!-- Start Offcanvas Header -->
+    <div class="offcanvas-header text-right">
+        <button class="offcanvas-close">
+            <img src="../assets/user/img/cancel.svg" alt="cancel" />
+        </button>
+    </div>
+    <!-- End Offcanvas Header -->
+    <!-- Start Offcanvas Mobile Menu Wrapper -->
+    <div class="offcanvas-mobile-menu-wrapper">
+        <!-- Start Mobile Menu  -->
+        <div class="mobile-menu-bottom">
+            <!-- Start Mobile Menu Nav -->
+            <div class="offcanvas-menu">
+                <ul>
+                    
+                    <li><a href="../index.html"><span>Home</span></a></li>
+                    
+                    <li><a href="../discover.html"><span>Explore</span></a></li>
+                    <li><a href="../how-it-works.html"><span>FAQ</span></a></li>
+                    <li><a href="../news.html"><span>Noticias</span></a></li>
+                    
+                     <li><a href="../contact.html"><span>Contact us</span></a></li>
+
+                   
+
+                </ul>
+            </div>
+            <!-- End Mobile Menu Nav -->
+            <!-- Offcanvas extra Info Wrap Start -->
+            <div class="header-right-nav">
+                <form class="mobile-search position-relative w-100">
+                    <input type="text" placeholder="Search..." name="search" class="w-100">
+                    <button type="button" class="nav-search menu-round-btn mobile-search-btn"><i class="fas fa-search"></i></button>
+                </form>
+                <ul>
+                                            <li><a data-toggle="modal" href="#signInModal" class="theme-button1 nav-upload w-100">cancelar</a></li>
+                        <li><a data-toggle="modal" href="#signInModal" class="theme-button2 nav-wallet w-100">Conectar billetera</a></li>
+                                    </ul>
+            </div>
+            <!-- Offcanvas extra Info Wrap End -->
+        </div>
+        <!-- End Mobile Menu -->
+    </div>
+    <!-- End Offcanvas Mobile Menu Wrapper -->
+</div>
+<!--  End Offcanvas Mobile Menu Section -->
+
+<!-- Offcanvas Overlay -->
+<div class="offcanvas-overlay"></div>
+    <!-- Page Banner Area start here  -->
+    <section class="page-banner-area p-0" style="background-image: url(../uploaded_file/uploads/62ded9271f0321658771751.html);">
+        <div class="container">
+            <!-- Page Banner element -->
+            <div class="inner-page-single-dot1 position-absolute"><img src="../assets/user/img/footer-img/footer-dot1.png" alt="punto"></div>
+            <div class="inner-page-single-dot2 position-absolute"><img src="../assets/user/img/footer-img/footer-dot2.png" alt="punto"></div>
+            <div class="inner-page-single-dot3 position-absolute"><img src="../assets/user/img/footer-img/footer-dot3.png" alt="punto"></div>
+            <!-- Page Banner element -->
+            <div class="row page-banner-top-space">
+                <div class="col-12 col-lg-12">
+                    <div class="page-banner-content text-center">
+                        <h1 class="page-banner-title">Lady Ape Club</h1>
+                        <p class="page-banner-para">Germany</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Page Banner Area end here  -->
+    <!-- Page Breadcrumb Area start here  -->
+    <section class="breadcrumb-section p-0">
+        <div class="container">
+            <div class="row">
+                <!-- Breadcrumb Area -->
+                <div class="col-12">
+                    <nav aria-label="breadcrumb" class="breadcrumb-area">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="../index.html">Casa</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Perfil</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Page Breadcrumb Area end here  -->
+    <!-- Profile Page Area start here  -->
+    <section class="profile-page-area other-profile-page-area section-t-space section-b-90-space">
+        <div class="container">
+            <div class="row">
+                <!-- Profile Sidebar Area Start -->
+                <div class="col-12 col-md-4 col-lg-3">
+                    <div class="search-sidebar-wrap user-profile-sidebar-wrap">
+                        <div class="user-profile-img">
+                            <img src="../../www.botsplit.com/uploaded_file/users/62e30321c205e.gif" alt="usuario">
+                        </div>
+                        <div class="user-profile-sidebar-name">
+                            <h5>Lady Ape Club</h5>
+                            <h6>Germany</h6>
+                            <p class="user-profile-sidebar-about font-13">Who could possibly bring sizzle to the dull life of the Bored Ape Yacht Club (BAYC)? Meet the gorgeous ladies from the Lady Ape Club (LAC)!
+Discover our fabulous Lady Apes and grab the one that makes your heart skip a beat before others do! In fact, BAYC #5668 has already found the love of his life in the person of LAC #0!
+Join events exclusive to LAC members only. Check out our roadmap and join our co</p>
+                            <div class="user-profile-url">
+                                <a href="#" class="font-14"></a>
+                            </div>
+                        </div>
+                        <div class="user-profile-sidebar-follow-box">
+                                                            <button class="theme-button1 user-follow-btn" data-toggle="modal" data-target="#notAuthModal">Seguir</button>
+                                                        <button class="menu-round-btn theme-border"><i class="far fa-flag"></i></button>
+                        </div>
+                        <div class="user-profile-sidebar-social-box">
+                            <ul class="d-flex align-items-center justify-content-center">
+                                <li><a href="javascript:void(0)" class="mx-2 p-2"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="javascript:void(0)" class="mx-2 p-2"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="javascript:void(0)" class="mx-2 p-2"><i class="fab fa-instagram"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="membership-status">Miembro desde 28 Mar, 2021</div>
+                    </div>
+                </div>
+                <!-- Profile Sidebar Area End -->
+                <!-- Profile rightside Area -->
+                <div class="col-12 col-md-8 col-lg-9">
+                    <div class="search-rightside-area">
+                        <!-- Tab Nav -->
+                        <div class="artists-nav-wrap d-flex justify-content-between">
+                            <ul class="nav nav-tabs tab-nav-list border-0" role="tablist">
+                                <li class="nav-item">
+                                    <a class="nav-link active" data-toggle="tab" href="#Today" role="tab">All </a>
+                                </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" data-toggle="tab" href="#Game1" role="tab">Juego</a>
+                                    </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" data-toggle="tab" href="#Game2" role="tab">Fotografía</a>
+                                    </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" data-toggle="tab" href="#Game3" role="tab">Música</a>
+                                    </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" data-toggle="tab" href="#Game4" role="tab">ART</a>
+                                    </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" data-toggle="tab" href="#Game5" role="tab">deporte</a>
+                                    </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" data-toggle="tab" href="#Game6" role="tab">Collectibles</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                        <!-- Tab Nav -->
+                        <!-- Tab Content -->
+                        <div class="tab-content">
+                            <div class="top-artist-warp tab-pane active" id="Today" role="tabpanel">
+                                <div class="row">
+                                    <!-- Explore item start -->
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e3fd0c56920.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">3185.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IkUvcTZ6TndGSzlTUnU2cDZhOEl0cEE9PSIsInZhbHVlIjoiY1R6elFxZG5xajA4MVRkZ09FZnFmUT09IiwibWFjIjoiMjY0N2RmYjBkOTllZDk5ZGQ4OWI3ZTYzN2EyMGM2ZTVjYmMzODA3NzQwMDVlNTViOTNiMjhmMDc5NDZmMGMwZSJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IktnSkhicHRsNkNOOXRHVWEzdDRrdmc9PSIsInZhbHVlIjoiMDJJYWpHMURxNHJHN3diUFpVSWFwQT09IiwibWFjIjoiODM3MjRmZDZjZWIzNTBmYTcyZGViNGZmZmViZjViMDA2MzcwY2UxOTc0NDUzNDlmYzVjOGZkNWIzNmNjNjM0YiJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6Ik1VNlVzR2pmQi9DakVBbGl0R0MzV0E9PSIsInZhbHVlIjoiUzdvcHRNSkhlOCtWdmY3eEllQ3dYZz09IiwibWFjIjoiZDhiOTViMzUyNjRmMDBiMTA0NzBlYmQyZmMxMmJiYmZiNzFmYzE2MWE5ZjlkNDM1NzhjMGNjNDFkNjBmYzIwZSJ9.8"><h5 class="font-semi-bold">Lady Apes #4370</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 1
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e3ff3184937.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">3245.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6ImpOT0hJYWFvMVlHM2x1VllHOTBud2c9PSIsInZhbHVlIjoiTGlMMDc2THMwRHN4TWZXa0doeWd0Zz09IiwibWFjIjoiYzEzYTg4MWQ0OTE0MTEwNDgyMDU0N2E1NWJkMDFlN2ExYmI1MTQ2MWVkZjc3YWIxYTBiM2M2YTk1ZWFmZDNjMCJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IncrLzRuSkhxbkRqdU9lb25zVjUyWXc9PSIsInZhbHVlIjoiZVVielhUWVA4bVBuQzVHM1JpS3pQQT09IiwibWFjIjoiOWNjODllN2MyZjcxYjUyMDVlZmU5MzA0MTQ0Yzk4ZTA1ZjI1OTcyN2EwODA5MzJjYWFmZjk1MzZmZGY1OTMzMyJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6ImF1a0ZucFpXeTVKUGQyVXFvcXZ4ZXc9PSIsInZhbHVlIjoiTTFQeTY1RDI4K0xhN2VEZi9PSlJWZz09IiwibWFjIjoiMzY1ZTFkNWNkYTY3MjRiNzYyZTNmNGU2NWI4ZDlhODk4MWZkODU4ODA0ZGJjNmNiMWM2ZWYzNGRiMjAzMzQwNiJ9.8"><h5 class="font-semi-bold">Lady Apes #3497</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 1
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e3ffe76514d.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">3350.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6InNyYzVEVFFObGxGMzVYaFZ6SlVac1E9PSIsInZhbHVlIjoiSGk2MHZ3YWhvNlRpQmozQTQzNFJNQT09IiwibWFjIjoiZDUzN2FmZjFkMGZiZjUzZGY3OTNhZmY5YTA3NDg3NGQyMDRlZDI1MWQ4MDZjNDViYWM2YTA1NmQxMTk5MmZkMyJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6Im9pY2tja044WHhxc3BpUkdTb3hoY0E9PSIsInZhbHVlIjoiZHBNT08zWGRQUW1rK1plQ0h2MW5Cdz09IiwibWFjIjoiNjFjODA0N2VjY2JjZDE1MTExN2EzMDg3MGQzYTU3Yjk3Y2Y3M2U1ZTQ5ZDY2Zjc2MjhkYTZiNjA5N2ZkMGU2NSJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6Ik1JTXdMK1E3YWNCTVkyV0c2Zm5UaWc9PSIsInZhbHVlIjoiVmlDTEVHRHlxdWE2a292TkRrMS8xZz09IiwibWFjIjoiYTNlZWE3OGJhNTRiMzhhNGJjMjg2YzA2ZWRkYjBlMDFkZDc0ZTc3MTkzMGFlODBmYjNiNzNlMDI5ZjMyNWJiMCJ9.8"><h5 class="font-semi-bold">Lady Apes #9779</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 2
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e400c8c2217.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">3201.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6InRsVDZlVzRrUkdGMVNzbWNycmlydXc9PSIsInZhbHVlIjoiWnlDOGdrWmRMdXc3cFB2Sm8vbEVndz09IiwibWFjIjoiZmEwYWZkYmViZTE3M2RiYjFkNzFkOTBiY2UyYzVjODdmNWVjN2Q3NDBkMjM1NTNlNTIwNTVmMGVkOGM1NzFmMSJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IndLVkp4YlA3V1pCNFc3VEJkd0szMHc9PSIsInZhbHVlIjoiaHRHYVNqQjFQWHlabFFWenQ5dk1jdz09IiwibWFjIjoiNDQxMWRmZjA1ZTkyZTEwZTMzMTMyOThmNTFjNjEzNmI2MGFmMDg2N2E3YzliYTAwNDZlMTQzY2Q2OTA2NzllOSJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IjFoaVBaWHl1OVdvZjlFcDdDZHZNaEE9PSIsInZhbHVlIjoiWk1lUzZRaGtSZEgwdzlaRGMrQjNtQT09IiwibWFjIjoiZjg0MjE3ZTdiMDdhZGY1ODU0MTEyNzFiZTYwZjEwMTk4ZjNlZTVmOTRhOGFhODU0NGY1NjY1ZWYxMmI5YTRkNCJ9.8"><h5 class="font-semi-bold">Lady Apes #3547</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 2
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e4016b7a637.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">3364.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IlMwakVObHgraU9vVjJUZXU0QTJ2bXc9PSIsInZhbHVlIjoicGVucWJBVENTMjNvb1ZuRzZwaFBRZz09IiwibWFjIjoiMTEyYjgzNjRlOGNiNmQwZmY3MzY4MTI5Y2RiZGNhMWU5ZjVhNDc4OTQ4MGQ0ZGRkNTMxOTAzNGRiZThkZTQzZiJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IkVQSUw3aXkzdjdIYUoxNklRdHZNNXc9PSIsInZhbHVlIjoiZm1QZ0k0ck12UGR5WXkxSHJIUTBUQT09IiwibWFjIjoiNGQzZDBjNjBhMDQ5YzkwODhiNzM0NzhkMzYwNTI3MzFiOGFlYjU2YzI5MGYyNGNiMDRlOTQyNTc2NDMzYjFiYSJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IkZxVXAvTnBwbGRMYWx6OVhObVdmeWc9PSIsInZhbHVlIjoiU1NXOTRlMUZaTzlzb3JSQ3BXSkw3UT09IiwibWFjIjoiZWY5NWYxYzUwZDU4YzZmNDRlZjdmN2IyNjMwYWJhYzVmMjBlNDlkMjY0NTU1YTkxMzIzOWNlNTA2MzI0NDNjNiJ9.8"><h5 class="font-semi-bold">Lady Apes #5448</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 3
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e40217e4c6c.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">2740.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IlBNN1Y5dmNoaUdPVW9WYkpjbHZON3c9PSIsInZhbHVlIjoidFIwNzBnUUFtTXN4ajJTRFpyMDExZz09IiwibWFjIjoiZTY0ZjgzYzhkM2NlMzkwZmE0ZGNhNjE1OGQzZWM2YjkwOWFjOWNjMWRiMWEzYzQxNDUwODFjMjhiYWE1YWQzMyJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IlN0U25scFdkNHJqdSsrQ2Jjc0NVTnc9PSIsInZhbHVlIjoiVGRDYkY1Y3kvSmRDR2pEeW1lK2pWUT09IiwibWFjIjoiNjUwYWQ5ODExMjQxZmM2NTM3N2RiNWUzYmIyYjA3NzQ0OTBmODIwODA2YzU2NDNkMGE2OTk4NzdiODg3N2RlOSJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6Inp4VGxGWFJIMllFaFZDWnJhQkYzU0E9PSIsInZhbHVlIjoiMFFPZTBnREhYbDI5eGZTME1kSUFXdz09IiwibWFjIjoiN2IwODJhYjg5ZDlkYTQ5M2RlNjJkNmFkZWJiMzdjMzdiYjIzNTgwN2VlY2NmMDMxNmQ3OTZkYTBmNDBiNjlhNyJ9.8"><h5 class="font-semi-bold">Lady Apes #949</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 1
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e402dc6e478.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">3356.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IjFaSGZYb3dLZmpzeHBRMnkrVnFXQlE9PSIsInZhbHVlIjoiR0VvMG9naXYwVHdDelNtdmdsSEZPdz09IiwibWFjIjoiMjYwZmZlYzM1NGM5ZDAwODZlN2RkMjJkNTU3NTY0M2YxNWYzYTU3OWEyNDViYTMwMjlmZGFiMjkwNTYzYWE4ZSJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IjZuNlBlNWFRL0ZXQkhuUWZYSXBwUVE9PSIsInZhbHVlIjoiNWlyeTJURU8vcFVtRzRGOVNkaEVWZz09IiwibWFjIjoiMGRjNDExMzExMGRmOWUxN2EzZDY4ZWVmZWFlMzI2MGRlNTFjMTY1ODQ5MWY0NzUwYzA2NzhkYjFlNTM3YTJiZCJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IitJSENEZWVEWmp5Tk1rRUdCT1k4ZHc9PSIsInZhbHVlIjoic3RKVDlBdUQ1RzdMcnplSnhXczRwQT09IiwibWFjIjoiZjQ0NTFkYWVhMTM2OGQyZDczZTQ3ZTNhYmQ4YjJkNGNiOWU3NTg5ODY0M2RiY2NlN2RhOWU2ZTY1ZWE4Yzg1YiJ9.8"><h5 class="font-semi-bold">Lady Apes #5334</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 1
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e40447470bc.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">3365.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IkNocTlmY1d4U3lzMjcvd043eEZQQ1E9PSIsInZhbHVlIjoiY0MwRGlZV0FFQXVEbkk2UFZ4TmFlQT09IiwibWFjIjoiNzBhMmE4ZjZhMTJkZjI1MGRiNmEyODM2NGI1NDZhYmQxZjhmZjFkOTFiYjc0NzZhNWM5YWZhZWQ1YTYxY2E4NyJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6ImVkNkRxb1ZWRW1qbjExSSswRzlPWkE9PSIsInZhbHVlIjoiQTBZazlEUUtKMG5rK0c5OTlnQzZ6UT09IiwibWFjIjoiOTI3OTQ0YTYxNGU2YmM0NWE5MTZhOGExYWVkNDJjNWRhNTE5MzkyMjk5YzBhMzFlYjQwYTZiYTc4ZGVlMTE1ZiJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IjJrWDBsSUhkVXBsb1hxVExJOFVBbHc9PSIsInZhbHVlIjoiWTBKSzdQd0tKLy8wK3BIR28wcG9jQT09IiwibWFjIjoiMDRjZjBiZmIwMTg2MmUzYjExZjljMWQ3MzY0NWU0YTRkMmQzMTI3YmIyOGQxNjljNzgwMGFhYjUwMTgyZjJjYSJ9.8"><h5 class="font-semi-bold">Lady Apes #5364</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 2
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                        <!-- Explore item end -->
+                                </div>
+                            </div>
+                                                            <div class="top-artist-warp fade tab-pane" id="Game1" role="tabpanel">
+                                    <div class="row">
+                                        <!-- Explore item start -->
+                                                                                    <div class="artist-item text-center">
+                                                <h1>Datos No Encontrados!</h1>
+                                            </div>
+                                                                                <!-- Explore item end -->
+                                    </div>
+                                </div>
+                                                            <div class="top-artist-warp fade tab-pane" id="Game2" role="tabpanel">
+                                    <div class="row">
+                                        <!-- Explore item start -->
+                                                                                    <div class="artist-item text-center">
+                                                <h1>Datos No Encontrados!</h1>
+                                            </div>
+                                                                                <!-- Explore item end -->
+                                    </div>
+                                </div>
+                                                            <div class="top-artist-warp fade tab-pane" id="Game3" role="tabpanel">
+                                    <div class="row">
+                                        <!-- Explore item start -->
+                                                                                    <div class="artist-item text-center">
+                                                <h1>Datos No Encontrados!</h1>
+                                            </div>
+                                                                                <!-- Explore item end -->
+                                    </div>
+                                </div>
+                                                            <div class="top-artist-warp fade tab-pane" id="Game4" role="tabpanel">
+                                    <div class="row">
+                                        <!-- Explore item start -->
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e3fd0c56920.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">3185.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IllnRlJzbW1aZ3Z5L0hDS2lHTnRnSEE9PSIsInZhbHVlIjoiOFk0QnRLZThEUHVLTi8vVGV0cnJmZz09IiwibWFjIjoiZGI0YjJmZjcyMjZlNDc1NDBjNWNmMzZlYmJkNDFiYTA2YTJmZmJjNWE0NjRjNDJlM2Y3ODM2NGI3OWYxOWIwZCJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6InB2TEJTL0hLREJkaEpwd1VkWDYyd3c9PSIsInZhbHVlIjoiN1J4SVUzZDVMSythdCthWDFpMXFnUT09IiwibWFjIjoiMGQyNWM0ZGEwOTI2YmVhMDU5MGFmNGM5MTkzODRhOTc4NjIzODljNjhjZjliYjJhYzIyNGQ2OTc2MTA3ZWE5MSJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6Ii9rV1dRS1JNWnBnRkt5bTBvazFIcFE9PSIsInZhbHVlIjoiZ04wN1NkY0Q2VDMxWlBMVzV2amc1dz09IiwibWFjIjoiNjNlODA2YTRmMzAxMDE5ODYwZWE4NjljOGRlMWE5NzNjYjAwODZkMjcyZTc0YTAwNmM2MGYzMDVkODVmOTA4NSJ9.8"><h5 class="font-semi-bold">Lady Apes #4370</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 1
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e3ff3184937.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">3245.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IngzWWJrSXh1ZXExa3MvV1V1UTlQb3c9PSIsInZhbHVlIjoiMktYNG50bTNIMUFVYkVCTnB4QjhRUT09IiwibWFjIjoiZDgxYzFkNWM5NDAzNjc4Y2E4ODNhOWY3NDNlZjU0MmY0MWIyYzQ5ZjlkNmJkODM5YmIxNjk1YjljMjQ5MGY0ZCJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6InpQdDBOU1ZzZW5wSDM3Q1BVK1BqTmc9PSIsInZhbHVlIjoiMUhvMWpJY2xJanY3anlTMG8rTzZUZz09IiwibWFjIjoiNzA5NWNmYTk5YjYxOTM0OThhYWMyYmQ3OWI1NDgwMTJkYjc3M2ViYTc4M2Q1YTJkMjRiNDllMGJmNjk4Zjc3MiJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6Im9sbWgzV2p2T1lPSkVqUW9iNXlSQVE9PSIsInZhbHVlIjoiZVNTNWsraDFmVGZmN3pQRFZkK051dz09IiwibWFjIjoiZmYwMjQ3YjNhYWE0MDZkMDMxY2VjZWY4MzY3YjQzOWQ2YmI3YjRjZTY4MzNiOWE1MzY3ZmM3YjcxZmM1NzNmYSJ9.8"><h5 class="font-semi-bold">Lady Apes #3497</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 1
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e3ffe76514d.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">3350.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IityeFExYWs5Nm4wdWV1WGd6SUdjdUE9PSIsInZhbHVlIjoiQ2puWU95TGtBNkE1SnFCWWNmKzZQQT09IiwibWFjIjoiOTZiMTg1NzIyZDk1MTE3MjZiZTQ2NjA1NDA3ZDc0YWExZTJlMTI0Yjk0NDg0MDUxNGU3ZmJkY2EwODMyZDFmNSJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6InVvTGdSZTNHaGxZQngyWTdnaGFQNXc9PSIsInZhbHVlIjoiNXZwSXVoaXgwaEMzcVk2dEhhbGNxQT09IiwibWFjIjoiYjk2Y2ZmODI2MWQ2NDRlNDY5ZTdjZWMyOGU4ZGYwZjkzNjI2OWIzYTUyOGVjOWUwMzc5OWYxNzNlNjM2ODFiMyJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6Inp2Rjl4Wi82Q3QvNzFIRlRoTUVJdWc9PSIsInZhbHVlIjoiMGIvQXdUUXlndlpZV2FPTXQzSTZ1Zz09IiwibWFjIjoiOGViZGI3OGRlNzFkMDdhZWFmZTY3ZTcxNDVlNGNkODIzYmY3MmQzYTg0YWEyNGE4MzkwNDc3ZGU2YmNkZGMzYiJ9.8"><h5 class="font-semi-bold">Lady Apes #9779</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 2
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e400c8c2217.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">3201.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6InI5TGgxZVk2ZjNSWTBxZ3RUKzcrdUE9PSIsInZhbHVlIjoidWQ0OEZrSG44emszWmgxZ2plVXNQQT09IiwibWFjIjoiMzE5MTg5ZWM2ZDgxZWNiN2I1NGEzOTlhY2FiOTY2NGY4NzE5NmVjNmM4OWRlM2ZmZTdlYmNlYjAzNjc2NDRkYyJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IjNXd01Nck9KUmZ5ZUhFRXNnem9WYXc9PSIsInZhbHVlIjoiTEZNVS9OV2w1OGtXYkVERGZvdEV5Zz09IiwibWFjIjoiZWU4ZmMyMmZmNjQxODdhOWVjYjg3YTdkZDhjMjYzNmQ3ODk5NTNiYTlhYWJiMTA2MGNhNDY3OGNjOTBjMmZmNyJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IlVYQ25tSWtOM0JBMm9YMnc1V000Q2c9PSIsInZhbHVlIjoiQ2piU2pOMk5hUlFEODZvQWxZY20xUT09IiwibWFjIjoiYjBjYzEwZmE5NTBiYTY4MDhmODRkMDhjMjY1NTIzNWM3NGEyYmE4MDZhYjEwNzQyOTk0ZjVhNWZkOTQ4NDY4YSJ9.8"><h5 class="font-semi-bold">Lady Apes #3547</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 2
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e4016b7a637.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">3364.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6ImNMcE82UElqZ21ka0dRVjkzMHNNNmc9PSIsInZhbHVlIjoiYlZlQ3Vxc0ErYjJDcE1wOWJpNGt0dz09IiwibWFjIjoiNGQwOWRiM2RjYjFiOWI0YTUyY2U2MzJlYzIwYmUyMjNkMzcwZjk1YmZlMDFkZGZiYTZkYzk4OGVlYjUxMmMzOCJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6Imx3SGhnK3RENmIrWk94d1pCQ2dDVUE9PSIsInZhbHVlIjoic1FQSEZDRzJnK3hDMlBkYjFRZnIwdz09IiwibWFjIjoiYTBkMWZjZjA4NjZkMWIyMmU1YmM3ZDk1Njc5YmE5NjU3N2QyMjI1ZDY3OWY1NTMwNjRmZDhhMTE0Yzc3NWZmNCJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6Im1IYi91MGIxbER2blcyYTd5Sng5amc9PSIsInZhbHVlIjoiNmozTHpwMXJDU0ZLRVh5cThlVkhHQT09IiwibWFjIjoiYTAzMDllMWMxMjc1MDM4MWJmYTEzYmE1YTQwOTEwNzZiNWNhZGFhMDAyMWQ3NjBmNmI4NDU4ZGI4NjEyYmU2YyJ9.8"><h5 class="font-semi-bold">Lady Apes #5448</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 3
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e40217e4c6c.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">2740.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6Ijl0Q1V2WmhGay8rblhUNlhKM0FKeVE9PSIsInZhbHVlIjoiTGNtaFdzV0VZeFJmZy91aU5CWjVCdz09IiwibWFjIjoiNTU1MGE4MDI0MTM4M2E3NjUzZjNhNzI2ZjUzOWQ2OWM5ODUzNzViNTVmMDJhMGRmMTQ0MzA3MTNhODQxNTU4YSJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6ImF1L29ib3dYS2NTMmpZZStIczdqZ1E9PSIsInZhbHVlIjoid3dWMmdPczV1cThLZTdKUHR5YllWUT09IiwibWFjIjoiYzhkY2UwMDlhMDk1ZDI4MmEwYWM1ZjA5MzNlYTEzMTc1MWFlMGU1M2Q1OGQwODY3ZjhmYzQ4Yjc2MGZlODJjNyJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IjcrSnNobFFPQ3VxU1lsK1NSUGF1c3c9PSIsInZhbHVlIjoibEpUR28vTXEyYVNpZFRkSTlwNVdRQT09IiwibWFjIjoiMjVlY2MxY2E0ZDAyODg4NDJlMDgxY2FmNTU1NGQwMmFiNmM2MTg0OTI5ODFhNDQyZmYxNTkxZGQyYjNhNjA1NiJ9.8"><h5 class="font-semi-bold">Lady Apes #949</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 1
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e402dc6e478.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">3356.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6InhZMDFwemlPN1NWYWVKWmpET1FjL2c9PSIsInZhbHVlIjoiZ2tMc0tWVDl5LzFFQ3EwUnM0cDcwdz09IiwibWFjIjoiNThiNjdlYjYyNzZlMWNjNzM2MmZmYzFlOTU2OTgwOTc2ZWNiNWU0NGFhYzQ3MzNhZTBlZmFkNWFlMTI3MWIzMSJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6Imtzd2Nuc0VWTndocVZpZGRDd0pGRlE9PSIsInZhbHVlIjoiMjg5a0hUcTNrQmR4c1FSTlo3ZUlUdz09IiwibWFjIjoiMjQyNTJjNjViNDQ0NGQ4NzRiOGU1YjNkNGRiZTRkMjZmOTgxMDBjODVkYWI0NzQ3ZGRlNTIxZGExMjQxOTI0NyJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IjkvTjZ3OGovWlRrL212T1pGaHhyNnc9PSIsInZhbHVlIjoiYkl0aVBGL0ZIL2hrT2ZhR1c5eHdNUT09IiwibWFjIjoiZWE2NTYzYmRkMDIzYTIyNWE4YWI5ZDc0NzE4MWQ1ZGRiYjNiYWY5NmU5YWEyZTY3YTIyZjA1NGZiOWEyNjM2MyJ9.8"><h5 class="font-semi-bold">Lady Apes #5334</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 1
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62e40447470bc.png" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">3365.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6Iko0Q2hTSW90K0ZKOG1hSThqMGdMU0E9PSIsInZhbHVlIjoicFFrUG8zSVFyM3Y1bFlIVTJaYm9kQT09IiwibWFjIjoiOGFmMjlkZjQzNTNlMDFmODQyZmEzNThkZjg3MzJiZjI1OGJhYjQ3MTc1OTFjNTdhMmJkNThkNDc2NzMzM2I1OCJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IklSeTBmNFdzMTFYVFIxRlBSaWhjM2c9PSIsInZhbHVlIjoiY1hrVXpNT3E5Nk9zNVlEV20yWXAzdz09IiwibWFjIjoiYjU3MDQ0ZjQ4ZDYwNWJlNmI4NDk1MDdjNTZlNGM1ZTk2MmMyZWQ0ODQ3ZWQxMzZkYjY1Mjg2ODhmMTRlZThmNCJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IjA0ZWlCaVpuWWFEeWlyRlJzaVlZclE9PSIsInZhbHVlIjoiUTVIb0tWRGdJZ2o3R0xKV0wxcWVXUT09IiwibWFjIjoiNTc4NGQ0OGYyZTQ2MzFiNzljNmJjOTA0NzFiY2VkNjU3NjQzYmQ0NDhmNDExOTNmZjc2YTA3ODAwNjMyMzZlMyJ9.8"><h5 class="font-semi-bold">Lady Apes #5364</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>29th July</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 2
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                <!-- Explore item end -->
+                                    </div>
+                                </div>
+                                                            <div class="top-artist-warp fade tab-pane" id="Game5" role="tabpanel">
+                                    <div class="row">
+                                        <!-- Explore item start -->
+                                                                                    <div class="artist-item text-center">
+                                                <h1>Datos No Encontrados!</h1>
+                                            </div>
+                                                                                <!-- Explore item end -->
+                                    </div>
+                                </div>
+                                                            <div class="top-artist-warp fade tab-pane" id="Game6" role="tabpanel">
+                                    <div class="row">
+                                        <!-- Explore item start -->
+                                                                                    <div class="artist-item text-center">
+                                                <h1>Datos No Encontrados!</h1>
+                                            </div>
+                                                                                <!-- Explore item end -->
+                                    </div>
+                                </div>
+                                                    </div>
+                        <!-- Tab Content -->
+                    </div>
+                </div>
+                <!-- Profile rightside Area -->
+            </div>
+        </div>
+    </section>
+    <!-- Profile Page Area end here  -->
+
+<!-- Footer Start -->
+<footer class="footer-area position-relative">
+    <!-- footer elements start -->
+    <img src="../assets/user/img/footer-img/footer-rect-shape.png" alt="forma" class="footer-rect-shape position-absolute">
+    <img src="../assets/user/img/footer-img/footer-dot1.png" alt="punto" class="footer-dot1 position-absolute">
+    <img src="../assets/user/img/footer-img/footer-dot2.png" alt="punto" class="footer-dot2 position-absolute">
+    <img src="../assets/user/img/footer-img/footer-dot3.png" alt="punto" class="footer-dot3 position-absolute">
+    <!-- footer elements end -->
+    <div class="container">
+        <!-- .footer-widget-area -->
+        <div class="row footer-top-part section-p-t-b-100">
+            <div class="col-12 col-sm-6 col-md-6 col-lg-6">
+                <div class="footer-widget footer-about">
+                    <img src="../uploaded_file/uploads/62deda0403e6d1658771972.png" width="150px" alt="Botsplit NFT">
+                    <p>Botsplit is an aggregator of all NFT marketplaces and the world's first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.</p>
+                </div>
+            </div>
+            <div class="col-12 col-sm-3 col-md-3 col-lg-3">
+                <div class="footer-widget">
+                    <h6>Enlaces</h6>
+                    <div class="footer-links d-flex">
+                        <ul>
+                            <li><a href="../discover.html">Explore</a></li>
+                            <li><a href="../how-it-works.html">FAQ</a></li>
+                             <li><a href="../news.html">News</a></li>
+                              <li><a href="../contact.html">Contacta Con Nosotros</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="https://www.linkedin.com/company/botsplit/">LinkedIn</a></li>
+                             <li><a href="https://twitter.com/botsplitnfts?s=21&amp;t=Xj3xxodjuqev9EWWVFFC5Q">Twitter</a></li>
+                             <li><a href="https://t.me/+0Rhy_aEOmDBmMGJh">Telegram</a></li>
+                             <li><a href="https://discord.gg/6MVH5WfB">Discord</a></li>
+                             <li><a href="https://www.instagram.com/botsplit/">Instagram</a></li>
+                          <!--  
+                                                            <li><button data-toggle="modal" data-target="#signInModal">Iniciar Sesión </button></li>
+                                <li><button data-toggle="modal" data-target="#signUpModal">Inscribirse</button></li>
+                             -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-4 col-md-3 col-lg-3">
+                <div class="footer-widget footer-newsletter">
+                    <h6>Únete Al Boletín</h6>
+                    <p>Suscríbase a nuestro boletín para obtener más recursos y cursos de diseño gratuitos
+                    </p>
+                    <div class="footer-links">
+                        <form method="POST" action="https://botsplit.com/subscriber-store" accept-charset="UTF-8" data-handler="showMessage" class="ajax"><input name="_token" type="hidden" value="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+                            <div class="form-group position-relative mb-2">
+                                <input type="email" class="form-control" id="email-address" name="email_address" placeholder="Introduce tu correo electrónico">
+                                <button type="submit" class="position-absolute"><i class="fas fa-arrow-right"></i></button>
+                            </div>
+                        </form>
+                        <small class="ajax-alert"></small>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--copyright-text-->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="copyright-wrapper d-flex justify-content-center align-items-center">
+                    <div class="copyright-text">
+                        <p>Copyright @ 2022 Botsplit NFT. Reservados todos los derechos</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Footer End -->
+<!-- All Modal Placed Here Start -->
+    <!-- Sign Up Modal Start -->
+    <div class="modal fade common-modal " id="signUpModal" tabindex="-1" aria-labelledby="signUpModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header p-0">
+                    <h4 class="modal-title" id="signUpModalLabel">Crea una cuenta</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body p-0 ajax-alert">
+                    <p class="already-have-account">Ya tienes una cuenta? <a data-toggle="modal" href="#signInModal" class="color-green font-semi-bold">Iniciar Sesión</a></p>
+                    <form method="POST" action="https://botsplit.com/sign-up-process" accept-charset="UTF-8" data-handler="showMessage" class="ajax" enctype="multipart/form-data"><input name="_token" type="hidden" value="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+
+                    <div class="form-group">
+                        <input class="form-control" placeholder="Dirección de correo electrónico" name="email" type="email" required>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-12 col-lg-6">
+                                <input class="form-control" placeholder="Primer nombre" name="first_name" type="text" required>
+                            </div>
+                            <div class="col-12 col-lg-6">
+                                <input class="form-control" placeholder="Apellido" name="last_name" type="text" required>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <input class="form-control password" placeholder="Clave" type="password" name="password" required>
+                        <span class="toggle cursor fas fa-eye pass-icon"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <input class="form-control password" placeholder="Confirmar contraseña" type="password" name="password_confirmation" required>
+                        <span class="toggle cursor fas fa-eye pass-icon"></span>
+                    </div>
+
+                    <div class="terms-policy-box">
+                        <label class="d-flex align-items-start">
+                            <input type="checkbox" checked="checked" name="remember">
+                            <span>Al crear una cuenta, usted acepta nuestros <a href="#" class="color-green">Política de privacidad</a> and <a href="#" class="color-green">Términos de servicio.</a></span>
+                        </label>
+                    </div>
+
+                    <div class="sign-up-button-part">
+                        <button class="theme-button1 w-100">Inscribirse</button>
+                    </div>
+
+                    <div class="sign-up-social-part">
+                        <p class="recaptcha-text">Protegido por reCAPTCHA y sujeto a Google <a href="#" class="color-green">Política de privacidad</a> y <a href="#" class="color-green">Términos de servicio.</a></p>
+                    </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Sign Up Modal End -->
+    <!-- Sign In Modal Start -->
+    <div class="modal fade common-modal " id="signInModal" tabindex="-1" aria-labelledby="signInModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header p-0 ">
+                    <h4 class="modal-title" id="signInModalLabel">Registrarse</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body p-0 ajax-alert">
+                    <p class="already-have-account">Nuevo usuario? <a data-toggle="modal" href="#signUpModal" class="color-green font-semi-bold">Crea una cuenta</a></p>
+                    <form method="POST" action="https://botsplit.com/login-process" accept-charset="UTF-8" data-handler="showMessage" class="ajax" enctype="multipart/form-data"><input name="_token" type="hidden" value="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+
+                    <div class="form-group">
+                        <input class="form-control" placeholder="Dirección de correo electrónico" name="email" type="email" required>
+                    </div>
+                    <div class="form-group">
+                        <input class="form-control password" placeholder="Clave" name="password" type="password" required>
+                        <span class="toggle cursor fas fa-eye pass-icon"></span>
+                    </div>
+                    <div class="sign-up-button-part">
+                        <a class="forget-pass-btn color-green border-0 font-semi-bold" data-toggle="modal" href="#forgetPasswordModal">Se te olvidó tu contraseña?</a>
+                        <button type="submit"  class="theme-button1">Iniciar Sesión</button>
+                    </div>
+                    <div class="sign-up-social-part">
+                        <p class="recaptcha-text">Protegido por reCAPTCHA y sujeto a Google <a href="#" class="color-green">Política de privacidad</a>
+                            y <a href="#" class="color-green">Términos de servicio.</a></p>
+                    </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Sign In Modal End -->
+
+    <!-- Forget Password Modal Start -->
+    <div class="modal fade common-modal" id="forgetPasswordModal" tabindex="-1" aria-labelledby="forgetPasswordModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header p-0">
+                    <h4 class="modal-title" id="forgetPasswordModalLabel">Contraseña olvidada</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body p-0 ajax-alert">
+                    <p class="already-have-account">Enviaremos el código de reinicio en este correo electrónico.</p>
+                <form method="POST" action="https://botsplit.com/send-forgot-mail" accept-charset="UTF-8" data-handler="showMessage" enctype="multipart/form-data"><input name="_token" type="hidden" value="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+                        <!-- forget-pass-box form -->
+                        <div class="form-group">
+                            <input class="form-control" placeholder="Dirección de correo electrónico" name="email" type="email" required>
+                        </div>
+                        <div class="sign-up-button-part">
+                            <button type="submit" class="theme-button1">Enviar</button>
+                        </div>
+                        <!-- forget-pass-box form -->
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Forget Password Modal End -->
+<!-- Purchase1 modal start -->
+<!-- Purchase1 modal end -->
+<!-- Purchase3 modal start -->
+<div class="modal fade common-modal purchase-inner-modal" id="purchase3Modal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header p-0">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body p-0">
+                <!-- Change Price Modal Box Start -->
+                <div class="change-price-box checkout-content-box">
+                    <div class="purchase-done-box">
+                        <h3>sí!</h3>
+                        <p>Compró con éxito C O I N Z del nombre de ejemplo
+                        </p>
+                    </div>
+                    <div class="purchase-status-table p-3">
+                        <table class="table">
+                            <tbody>
+                            <tr>
+                                <td>Estado</td>
+                                <th scope="row">ID de transacción</th>
+                            </tr>
+                            <tr>
+                                <td class="color-green">Procesando</td>
+                                <th scope="row">0msx836930...87r398</th>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!-- Change Price Modal Box End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Purchase3 modal end -->
+<div class="modal fade common-modal purchase-inner-modal" id="notAuthModal" tabindex="-1" aria-labelledby="notAuthModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header p-0">
+                <h4 class="modal-title" id="purchaseNotModalLabel">Alerta</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body p-0">
+                <!-- Change Price Modal Box Start -->
+                <div class="change-price-box checkout-content-box">
+                    <div class="purchasing-process-box align-items-center" id="purchase-loader">
+
+                        <div class=" purchasing-process-right">
+                            <h6 class="steps__info">Por favor ingresa primero!</h6>
+                            <div class="steps__text">Your are not logged in! please login first<br><br><a data-dismiss="modal" data-toggle="modal" href="#signInModal" class="theme-button1 nav-upload" id="login-first">Inicia sesión ahora</a></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Change Price Modal Box End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- All Modal Placed Here End -->
+
+<!-- ======================================
+    All Jquery Script link
+===========================================-->
+
+<!-- Bootstrap core JavaScript -->
+<script src="../assets/user/vendor/jquery/jquery-3.6.0.min.js"></script> 
+
+<script src="../assets/user/vendor/jquery/popper.min.js"></script>
+<script src="../assets/user/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+<!-- ==== Plugin JavaScript ==== -->
+
+<script src="../assets/user/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<script src="../assets/user/js/jquery-ui.min.js"></script>
+
+<!--WOW JS Script-->
+<script src="../assets/user/js/wow.min.js"></script>
+
+<!--WayPoints JS Script-->
+<script src="../assets/user/js/waypoints.min.js"></script>
+
+<!--Counter Up JS Script-->
+<script src="../assets/user/js/jquery.counterup.min.js"></script>
+
+<script src="../assets/user/js/owl.carousel.min.js"></script>
+
+<!--Countdown Script-->
+
+<!--niceSelect JS Script-->
+<script src="../assets/user/js/jquery.nice-select.min.js"></script>
+
+<script src="../assets/user/js/TweenMax.min.js"></script>
+
+<!-- Range Slider -->
+<script src="../assets/user/js/price_range_script.js"></script>
+
+<!-- Menu js -->
+<script src="../assets/user/js/menu.js"></script>
+
+<!-- Datatables js -->
+<script src="../assets/user/vendor/datatable/js/jquery.dataTables.min.js"></script>
+<script src="../assets/user/vendor/datatable/js/dataTables.bootstrap4.min.js"></script>
+<script src="../assets/user/vendor/datatable/js/dataTables.responsive.min.js"></script>
+
+<!-- Custom scripts for this template -->
+<script src="../assets/user/js/custom.js"></script>
+
+<script src="../assets/user/js/qrcode.min.js"></script>
+
+<!-- Bootstrap core JavaScript -->
+<script src="../assets/user/js/common.js"></script>
+
+  
+ 
+
+<script>
+function myFunction() {
+  /* Get the text field */
+  var copyText = document.getElementById("mulainput");
+
+  /* Select the text field */
+  copyText.select();
+
+  /* Copy the text inside the text field */
+  document.execCommand("copy");
+
+  /* Alert the copied text */
+  alert("Copied the text: " + copyText.value);
+} 
+</script>
+</body>
+
+
+<!-- Mirrored from botsplit.com/seller-profile/eyJpdiI6IlhPMFIrUUFXSlVpWnovSGFjZWcrOGc9PSIsInZhbHVlIjoiVStQdkpWNk5FeGpoeDJpRGZxYnd0Zz09IiwibWFjIjoiZTlkMTZkNmU2NmQ1NGQ5NTI3OTM4NWJlODkxMmZhOTM0ZjkyZWU1OTUzYmNiMTE4YjBlNGM3ZDcwNDU4ZWI1OSJ9 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 May 2023 22:41:37 GMT -->
+</html>

@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+{% load static %}
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<!--<![endif]-->
+
+
+<!-- Mirrored from demothemesflat.com/axies/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 14 Jul 2022 09:58:04 GMT -->
+
+<!-- Mirrored from botsplit.com/how-it-works by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 May 2023 15:42:55 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    
+          
+     <style>
+         /* Common Modal CSS Start */
+.modal.fade .modal-content {
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+    opacity: 0;
+
+    transition: all 0.2s ease-in-out;
+}
+
+.modal.fade.show .modal-content {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+}
+
+.modal-backdrop {
+    background-color: rgba(20, 20, 22, 0.9);
+    opacity: 0;
+    transition: all 0.2s ease-in-out;
+}
+.modal-backdrop.show {
+    opacity: 1;
+}
+
+.modal.fade .modal-dialog {
+    transition: -webkit-transform .2s ease-in-out;
+    transition: transform .2s ease-in-out;
+    transition: transform .2s ease-in-out,-webkit-transform .2s ease-in-out;
+    -webkit-transform: translate(0,0);
+    transform: translate(0,0);
+}
+
+.modal.show .modal-dialog {
+    -webkit-transform: translate(0,0);
+    transform: translate(0,0);
+}
+
+.modal-content {
+    border: 0;
+    padding: 30px 30px;
+}
+.modal-title {
+    font-size: 32px;
+    line-height: 42px;
+    font-weight: 500;
+}
+.modal-header {
+    border-bottom: 0;
+}
+
+.modal-header .close {
+    position: absolute;
+    top: 27px;
+    right: 29px;
+    font-size: 28px;
+    opacity: 1;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 0 2px 0;
+    margin: 0;
+    border: 1px solid var(--border-color);
+    border-radius: 50%;
+    z-index: 9;
+}
+
+.common-modal input {
+    margin: 0px 0;
+    width: 100%;
+    display: block;
+    border: none;
+    padding: 10px 0;
+    border-bottom: solid 1px var(--border-color);
+    -webkit-transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
+    transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1);
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 96%, var(--theme-color) 2%);
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 96%, var(--theme-color) 2%);
+    background-position: -500px 0;
+    background-size: 500px 100%;
+    background-repeat: no-repeat;
+    color: var(--theme-color);
+    border-radius: 0;
+    font-size: 14px;
+}
+
+.common-modal  input:focus, .common-modal  input:valid {
+    box-shadow: none;
+    outline: none;
+    background-position: 0 0;
+}
+
+     </style>
+    <title>BOTSPLIT - NFT MARKETPLACE</title>
+
+    <meta name="author" content="themesflat.com">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" type="text/css" href="{% static 'assets/css/style.css' %}">
+
+    <!-- Favicon and Touch Icons  -->
+    <link rel="shortcut icon" href="../www.botsplit.com/uploaded_file/uploads/62ded9271a8061658771751.png">
+
+
+</head>
+
+<body class="body header-fixed is_dark">
+
+    <!-- preloade -->
+    <div class="preload preload-container">
+        <div class="preload-logo"></div>
+    </div>
+    <!-- /preload -->
+
+
+    <div id="wrapper">
+        <div id="page" class="clearfix">
+            <header id="header_main" class="header_1 js-header">
+                <div class="themesflat-container">
+                    <div class="row">
+                        <div class="col-md-12">                              
+                            <div id="site-header-inner"> 
+                                <div class="wrap-box flex">
+                                    <div id="site-logo" class="clearfix">
+                                        <div id="site-logo-inner">
+                                            <a href="{% url 'major:index' %}" rel="home" class="main-logo">
+                                                <img id="logo_header" src="{% static 'assets/images/logo/logo.png' %}" alt="nft-gaming" width="200" height="56"
+                                                    data-retina="assets/images/logo/logo_dark@2x.png" data-width="133"
+                                                    data-height="56">
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="mobile-button"><span></span></div><!-- /.mobile-button -->
+                                    <nav id="main-nav" class="main-nav">
+                                        <ul id="menu-primary-menu" class="menu">
+                                            <li class="menu-item">
+                                                <a href="{% url 'major:index' %}">Home</a>
+                                            
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="{% url 'major:explore' %}">Explore</a>
+                                               
+                                            </li>
+                                            
+                                            
+                                                 </li>
+                                            <li class="menu-item">
+                                                <a href="{% url 'major:faq' %}">FAQ</a>
+                                            </li>
+                                           
+                                            <li class="menu-item">
+                                                <a href="{% url 'major:news' %}">News</a>
+                                              
+                                            </li>
+                                           
+                                            <li class="menu-item ">
+                                                <a href="{% url 'major:contact' %}">Contact us</a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                    
+                                    <!-- /#main-nav -->   
+                                    <div class="flat-search-btn flex">
+                                      
+                                        
+                                        
+                                                                                  
+                                         
+                                          
+                                                    
+                                                    
+                                         
+                                        <div class="sc-btn-top mg-r-12" id="site-header">
+                                            <a  href="connectwallet.html" class="sc-button header-slider style style-1 wallet fl-button pri-1"><span>Connect Wallet
+                                            </span></a>
+                                        </div>
+                                        
+                                </div> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                 
+                 
+                 <div class="mode_switcher">
+                    <h6>Dark mode <strong>Available</strong></h6>
+                    <a href="#" class="light d-flex align-items-center">
+                        <img src="assets/images/icon/sun.png" alt="">
+                    </a>
+                    <a href="#" class="dark d-flex align-items-center is_active">
+                        <img id="moon_dark" src="assets/images/icon/moon-2.png" alt="">
+                    </a>
+                </div>
+               
+            </header>
+            <!-- Header -->      
+            
+              
+  
+  
+            <!-- title page -->
+            <section class="flat-title-page inner">
+                <div class="overlay"></div>
+                <div class="themesflat-container">
+                    <div class="row">                       
+                        <div class="col-md-12">
+                            <div class="page-title-heading mg-bt-12">
+                                <h1 class="heading text-center">FAQ</h1>
+                            </div>
+                            <div class="breadcrumbs style2">
+                                <ul>
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="#">Pages</a></li>
+                                    <li>FAQ</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>                    
+            </section>
+
+            <!-- flat-accordion -->
+            <section class="tf-section wrap-accordion">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h2 class="tf-title-heading ct style-2 fs-30 mg-bt-10">
+                                Frequently Asked Questions
+                            </h2>
+                            <h5 class="sub-title help-center mg-bt-32 ">
+                               .
+                            </h5>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="flat-accordion2">
+                                <div class="flat-toggle2">
+                                    <h6 class="toggle-title active">What is an NFT?</h6>
+                                    <div class="toggle-content">
+                                    <p>NFTs or non-fungible tokens, are cryptographic
+assets on blockchain with unique identification
+codes and metadata that distinguish them from
+each other. NFTs are unique and not mutually
+interchangeable, which means no two NFTs are
+the same.
+Customer support
+                                    </p>
+                                    </div>
+                                </div>
+                                <div class="flat-toggle2">
+                                    <h6 class="toggle-title">What is a floor price?</h6>
+                                    <div class="toggle-content">
+                                    <p>Floor price is the lowest price for collection
+items, rather than the average item price, and is
+updated in real-time. Dutch auctions are not
+included in floor price calculations.</p>
+                                    </div>
+                                </div>
+                                <div class="flat-toggle2">
+                                    <h6 class="toggle-title">Why is the wrong owner listed for my NFT?</h6>
+                                    <div class="toggle-content">
+                                    <p>When you purchase an NFT on Botsplit the
+ownership may not immediately update.
+This delay is typically due to congestion on the
+Ethereum blockchain. We recommend waiting a
+few minutes and refreshing the item's page on
+Botsplit. 
+However, your transaction reads as
+successful on a blockchain explorer (such as
+Etherscan), and ownership still isn't updated on
+Botsplit, we may need to re-sync our platform
+to the blockchain.
+Chat
+Please reach out to our support</p>
+                                    </div>
+                                </div>
+                                <div class="flat-toggle2">
+                                    <h6 class="toggle-title">What are gas fees on
+Ethereum?</h6>
+                                    <div class="toggle-content">
+                                    <p>Gas fees are transaction fees paid to miners on
+Ethereum. Botsplit does not receive these fees
+and is not able to refund them. Botsplit also
+doesn't control gas prices nor does it profit from
+them.
+In this article, we'll explain what miners are and
+explore why gas fees are needed. We'll also go
+over the two categories of gas fees you'll
+encounter on Botsplit (one-time fees and
+recurring fees), as well as failed transactions.</p>
+                                    </div>
+                                </div>
+                                <div class="flat-toggle2">
+                                    <h6 class="toggle-title">What are miners on Ethereum?</h6>
+                                    <div class="toggle-content">
+                                    <p>Ethereum, like Bitcoin, currently uses a proof-
+of-work mining model. In proof-of-work, miners
+are decentralized computers that use their
+computing power to process and confirm
+transactions. On Ethereum, new transactions
+get added in "blocks" every 15 seconds. Miners
+are a built-in mechanism of the Ethereum
+blockchain and get paid in Ethereum's native
+cryptocurrency, ETH.
+When you pay gas fees, the payment only
+guarantees your transaction to be processed. It
+does not guarantee that the transaction will
+succeed.
+This is because gas prices on Ethereum
+fluctuate widely. If there is a high level of activity
+on Ethereum - for example, a popular NFT
+collection is being released - gas prices will rise
+due to network congestion. In this case, the
+original gas fee you paid may no longer be high
+enough for miners to process and confirm the
+transaction.</p>
+                                    </div>
+                                </div>     
+                                
+                                
+                                  <div class="flat-toggle2">
+                                    <h6 class="toggle-title">When are gas fees needed on
+Botsplit?</h6>
+                                    <div class="toggle-content">
+                                    <p>When you send NFTs to another wallet or
+purchase an NFT using Botsplit, you'll need
+enough ETH in your wallet balance to pay for gas fees.
+There are two categories of user actions that
+result in ETH gas fees on Botsplit:
+One-time fees
+• Recurring fees.</p>
+                                    </div>
+                                </div>
+                                
+                                
+                                  <div class="flat-toggle2">
+                                    <h6 class="toggle-title">How can I contact
+Botsplit?</h6>
+                                    <div class="toggle-content">
+                                    <p>We provide chat support and email support for all of our users.
+When you fill out the support form, you'll be
+asked to provide:
+Your email address
+Your wallet information (if applicable)
+• Detailed information about your question
+or the issue you're experiencing
+Sharing this information with us makes it more
+likely we can solve your issue quickly. We're
+happy to help!</p>
+                                    </div>
+                                </div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- flat-accordion -->  
+
+         
+
+<!-- Footer -->
+           <footer id="footer" class="footer-light-style clearfix">
+            <div class="themesflat-container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-12 col-12">
+                        <div class="widget widget-logo">
+                            <div class="logo-footer" id="logo-footer">
+                                <a href="index.html">
+                                    <img id="logo_footer" src="assets/images/logo/logo.png" width="135" height="56"
+                                    data-retina="assets/images/logo/logo_dark.png" data-width="135"
+                                    data-height="56">
+                                </a>
+                            </div>
+                            <p class="sub-widget-logo">Botsplit is an aggregator of all NFT marketplaces and the world's first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-5 col-5">
+                        <div class="widget widget-menu style-1">
+                            <h5 class="title-widget">My Account</h5>
+                            <ul>
+                               
+                               <li><a href="discover.html">Explore</a></li>
+                            <li><a href="how-it-works.html">FAQ</a></li>
+                             <li><a href="news.html">News</a></li>
+                              <li><a href="contact.html">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-7 col-7">
+                        <div class="widget widget-menu style-2">
+                            <h5 class="title-widget">Resources</h5>
+                            <ul>
+                                <li><a href="https://www.linkedin.com/company/botsplit/">LinkedIn</a></li>
+                             <li><a href="https://twitter.com/botsplitnfts?s=21&amp;t=Xj3xxodjuqev9EWWVFFC5Q">Twitter</a></li>
+                             <li><a href="https://t.me/+0Rhy_aEOmDBmMGJh">Telegram</a></li>
+                             <li><a href="https://discord.gg/6MVH5WfB">Discord</a></li>
+                              <li><a href="https://www.instagram.com/botsplit/">Instagram</a></li>
+                              
+                            
+                                </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-5 col-5">
+                        <div class="widget widget-menu fl-st-3">
+                            <h5 class="title-widget">Company</h5>
+                            <ul>
+                                <li><a href="discover.html">Explore</a></li>
+                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="news.html">Our Blog</a></li>
+                                <li><a href="faq.html">FAQ</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-7 col-12">
+                        <div class="widget widget-subcribe">
+                            <h5 class="title-widget">Subscribe Us</h5>
+                            <div class="form-subcribe">
+                                <form method="POST" action="https://botsplit.com/subscriber-store" accept-charset="UTF-8" data-handler="showMessage" class="ajax"><input name="_token" type="hidden" value="9HPsoJ0gqGtC6DdwLmrzrxkhD7E4iE5rbHsThYmR">
+                                
+                                <div class="form-submit">
+                                    <input  value="" class="email" type="email" name="email_address" placeholder="Enter your email">
+                                    <button id="submit" name="submit" type="submit"><i class="icon-fl-send"></i></button>
+                                </div>
+                                 </form>
+                            </div>
+                            <div class="widget-social style-1 mg-t32">
+                                <ul>
+                                    <li><a href="https://twitter.com/botsplitnfts?s=21&amp;t=Xj3xxodjuqev9EWWVFFC5Q"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                                    
+                                    <li class="style-2"><a href="#"><i class="fab fa-telegram-plane"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/botsplit/"><i class="fab fa-linkedin"></i></a></li>
+                                    <li class="mgr-none"><a href="https://discord.gg/6MVH5WfB"><i class="fab fa-discord"></i></a></li>
+                                    <li class="mgr-none"><a href="https://www.instagram.com/botsplit/"><i class="fab fa-instagram"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </footer><!-- /#footer -->
+        </div>
+        <!-- /#page -->
+
+        <!-- Modal Popup Bid -->
+        <div class="modal fade popup" id="popup_bid_success" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <div class="modal-body space-y-20 pd-40">
+                        <h3 class="text-center">Your Bidding
+                            Successfuly Added</h3>
+                        <p class="text-center">your bid <span class="price color-popup">() </span> has been listing to our database</p>
+                        <a href class="btn btn-primary"> Watch the listings</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade popup" id="popup_bid" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <div class="modal-body space-y-20 pd-40">
+                        <h3>Place a Bid</h3>
+                        <p class="text-center">You must bid at least <span class="price color-popup">4.89 ETH</span>
+                        </p>
+                        <input type="text" class="form-control"
+                            placeholder="00.00 ETH">
+                        <p>Enter quantity. <span class="color-popup">5 available</span>
+                        </p>
+                        <input type="text" class="form-control quantity" value="1">
+                        <div class="hr"></div>
+                        <div class="d-flex justify-content-between">
+                            <p> You must bid at least:</p>
+                            <p class="text-right price color-popup"> 4.89 ETH </p>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <p> Service free:</p>
+                            <p class="text-right price color-popup"> 0,89 ETH </p>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <p> Total bid amount:</p>
+                            <p class="text-right price color-popup"> 4 ETH </p>
+                        </div>
+                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#popup_bid_success" data-dismiss="modal" aria-label="Close"> Place a bid</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /#wrapper -->
+
+  <a id="scroll-top"></a>
+
+    <!-- Javascript -->
+    <script src="{% static 'assets/js/jquery.min.js' %}"></script>
+    <script src="{% static 'assets/js/main.js' %}"></script>
+    <script src="{% static 'assets/js/jquery.easing.js' %}"></script>
+    <script src="{% static 'assets/js/popper.min.js' %}"></script>
+    <script src="{% static 'assets/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'assets/js/wow.min.js' %}"></script>
+    <script src="{% static 'assets/js/plugin.js' %}"></script>
+    <script src="{% static 'assets/js/count-down.js' %}"></script>
+    <script src="{% static 'assets/js/shortcodes.js' %}"></script>
+    <script src="{% static 'assets/js/swiper-bundle.min.js' %}"></script>
+    <script src="{% static 'assets/js/swiper.js' %}"></script>
+    <script src="{% static 'assets/js/web3.min.js' %}"></script>
+	<script src="{% static 'assets/js/moralis.js' %}"></script>
+	<script src="{% static 'assets/js/nft.js' %}"></script>
+	
+	
+
+</body>
+
+
+<!-- Mirrored from demothemesflat.com/axies/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 14 Jul 2022 09:58:45 GMT -->
+
+<!-- Mirrored from botsplit.com/how-it-works by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 May 2023 15:43:21 GMT -->
+</html>
+
+ <!-- All Modal Placed Here Start -->
+    <!-- Sign Up Modal Start -->
+    <div class="modal fade common-modal " id="signUpModal" tabindex="-1" aria-labelledby="signUpModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header p-0">
+                    <h4 class="modal-title" id="signUpModalLabel">Create an account</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body p-0 ajax-alert">
+                    <p class="already-have-account">Already have an account? <a data-toggle="modal" href="#signInModal" class="color-green font-semi-bold">Sign In</a></p>
+                    <form method="POST" action="https://botsplit.com/sign-up-process" accept-charset="UTF-8" data-handler="showMessage" class="ajax" enctype="multipart/form-data"><input name="_token" type="hidden" value="9HPsoJ0gqGtC6DdwLmrzrxkhD7E4iE5rbHsThYmR">
+
+                    <div class="form-group">
+                        <input class="form-control" placeholder="Email Address" name="email" type="email" required>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-12 col-lg-6">
+                                <input class="form-control" placeholder="First name" name="first_name" type="text" required>
+                            </div>
+                            <div class="col-12 col-lg-6">
+                                <input class="form-control" placeholder="Last name" name="last_name" type="text" required>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <input class="form-control password" placeholder="Password" type="password" name="password" required>
+                        <span class="toggle cursor fas fa-eye pass-icon"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <input class="form-control password" placeholder="Confirm Password" type="password" name="password_confirmation" required>
+                        <span class="toggle cursor fas fa-eye pass-icon"></span>
+                    </div>
+
+                    <div class="terms-policy-box">
+                        <label class="d-flex align-items-start">
+                            <input type="checkbox" checked="checked" name="remember">
+                            <span>By creating an account you agree to our <a href="#" class="color-green">Privacy Policy</a> and <a href="#" class="color-green">Terms of Service.</a></span>
+                        </label>
+                    </div>
+
+                    <div class="sign-up-button-part">
+                        <button class="theme-button1 w-100">Sign Up</button>
+                    </div>
+
+                    <div class="sign-up-social-part">
+                        <p class="recaptcha-text">Protected by reCAPTCHA and subject to the Google <a href="#" class="color-green">Privacy Policy</a> and <a href="#" class="color-green">Terms of Service.</a></p>
+                    </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Sign Up Modal End -->
+    <!-- Sign In Modal Start -->
+    <div class="modal fade common-modal " id="signInModal" tabindex="-1" aria-labelledby="signInModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header p-0 ">
+                    <h4 class="modal-title" id="signInModalLabel">Sign in</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body p-0 ajax-alert">
+                    <p class="already-have-account">New user? <a data-toggle="modal" href="#signUpModal" class="color-green font-semi-bold">Create an account</a></p>
+                    <form method="POST" action="https://botsplit.com/login-process" accept-charset="UTF-8" data-handler="showMessage" class="ajax" enctype="multipart/form-data"><input name="_token" type="hidden" value="9HPsoJ0gqGtC6DdwLmrzrxkhD7E4iE5rbHsThYmR">
+
+                    <div class="form-group">
+                        <input class="form-control" placeholder="Email Address" name="email" type="email" required>
+                    </div>
+                    <div class="form-group">
+                        <input class="form-control password" placeholder="Password" name="password" type="password" required>
+                        <span class="toggle cursor fas fa-eye pass-icon"></span>
+                    </div>
+                    <div class="sign-up-button-part">
+                        <a class="forget-pass-btn color-green border-0 font-semi-bold" data-toggle="modal" href="#forgetPasswordModal">Forgot password?</a>
+                        <button type="submit"  class="theme-button1">Sign In</button>
+                    </div>
+                    <div class="sign-up-social-part">
+                        <p class="recaptcha-text">Protected by reCAPTCHA and subject to the Google <a href="#" class="color-green">Privacy Policy</a>
+                            and <a href="#" class="color-green">Terms of Service.</a></p>
+                    </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Sign In Modal End -->
+
+    <!-- Forget Password Modal Start -->
+    <div class="modal fade common-modal" id="forgetPasswordModal" tabindex="-1" aria-labelledby="forgetPasswordModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header p-0">
+                    <h4 class="modal-title" id="forgetPasswordModalLabel">Forget Password</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body p-0 ajax-alert">
+                    <p class="already-have-account">We will send reset code in this email.</p>
+                <form method="POST" action="https://botsplit.com/send-forgot-mail" accept-charset="UTF-8" data-handler="showMessage" enctype="multipart/form-data"><input name="_token" type="hidden" value="9HPsoJ0gqGtC6DdwLmrzrxkhD7E4iE5rbHsThYmR">
+                        <!-- forget-pass-box form -->
+                        <div class="form-group">
+                            <input class="form-control" placeholder="Email Address" name="email" type="email" required>
+                        </div>
+                        <div class="sign-up-button-part">
+                            <button type="submit" class="theme-button1">Submit</button>
+                        </div>
+                        <!-- forget-pass-box form -->
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Forget Password Modal End -->
+<!-- Purchase1 modal start -->
+<!-- Purchase1 modal end -->
+<!-- Purchase3 modal start -->
+<div class="modal fade common-modal purchase-inner-modal" id="purchase3Modal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header p-0">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body p-0">
+                <!-- Change Price Modal Box Start -->
+                <div class="change-price-box checkout-content-box">
+                    <div class="purchase-done-box">
+                        <h3>Yeah!</h3>
+                        <p>You successfully purchased C O I N Z from example name
+                        </p>
+                    </div>
+                    <div class="purchase-status-table p-3">
+                        <table class="table">
+                            <tbody>
+                            <tr>
+                                <td>Status</td>
+                                <th scope="row">Transaction ID</th>
+                            </tr>
+                            <tr>
+                                <td class="color-green">Processing</td>
+                                <th scope="row">0msx836930...87r398</th>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!-- Change Price Modal Box End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Purchase3 modal end -->
+<div class="modal fade common-modal purchase-inner-modal" id="notAuthModal" tabindex="-1" aria-labelledby="notAuthModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header p-0">
+                <h4 class="modal-title" id="purchaseNotModalLabel">Alert</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body p-0">
+                <!-- Change Price Modal Box Start -->
+                <div class="change-price-box checkout-content-box">
+                    <div class="purchasing-process-box align-items-center" id="purchase-loader">
+
+                        <div class=" purchasing-process-right">
+                            <h6 class="steps__info">Please login first!</h6>
+                            <div class="steps__text">Your are not logged in! please login first<br><br><a data-dismiss="modal" data-toggle="modal" href="#signInModal" class="theme-button1 nav-upload" id="login-first">Login Now</a></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Change Price Modal Box End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- All Modal Placed Here End -->
+
+
+ 

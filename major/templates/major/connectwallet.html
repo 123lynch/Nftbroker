@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+
+<!-- Mirrored from botsplit.com/connectwallet by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 May 2023 21:02:37 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="NFT Buy/Sell Marketplace">
+    <meta name="keywords" content="crypto currency, currency, crypto, nft marketplace, NFT, nft, NFT marketplace">
+    <meta name="author" content="zainiktheme">
+    <meta name="csrf-token" content="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+    <meta property="og:type" content="Web Template">
+    <meta property="og:title" content="BOTSPLIT NFT -  Buy/Sell Marketplace">
+    <meta property="og:description" content="NFT Buy/Sell Marketplace">
+    <meta property="og:image" content="assets/user/img/01_preview.html">
+    <meta name="twitter:card" content="zainiktheme">
+    <meta name="twitter:title" content="BOTSPLIT NFT -  Buy/Sell Marketplace">
+    <meta name="twitter:description" content="NFT Buy/Sell Marketplace">
+  
+
+        <title>BOTSPLIT NFT</title>
+    <!--=======================================
+      All Css Style link
+    ===========================================-->
+    <!-- Bootstrap core CSS -->
+    <link href="{% static 'assets/user/vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+
+    <link href="{% static 'assets/user/css/jquery-ui.min.css' %}" rel="stylesheet">
+
+    <!-- Font Awesome for this template -->
+    <link href="{% static 'assets/user/vendor/fontawesome-free/css/all.min.css' %}" rel="stylesheet" type="text/css">
+
+    <!-- Flat Icon for this template -->
+    <link href="{% static 'assets/user/vendor/flat-icon/flaticon.css' %}" rel="stylesheet" type="text/css">
+
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet">
+
+    <!-- Animate Css-->
+    <link rel="stylesheet" href="{% static 'assets/user/css/animate.min.css' %}">
+
+    <link rel="stylesheet" href="{% static 'assets/user/css/owl.carousel.min.css' %}">
+    <link rel="stylesheet" href="{% static 'assets/user/css/owl.theme.default.min.css' %}">
+
+    <!-- DataTables -->
+    <link rel="stylesheet" type="text/css" href="{% static 'assets/user/vendor/datatable/css/dataTables.bootstrap4.min.css' %}"/>
+    <link rel="stylesheet" type="text/css" href="{% static 'assets/user/vendor/datatable/css/responsive.dataTables.min.css' %}"/>
+
+    <link rel="stylesheet" href="{% static 'assets/user/css/nice-select.css' %}">
+
+    <!-- Custom styles for this template -->
+    <link href="{% static 'assets/user/css/style.css' %}" rel="stylesheet">
+    <!-- Extra CSS -->
+    <link href="{% static 'assets/user/css/extra.css' %}" rel="stylesheet">
+
+    <!-- Responsive Css-->
+    <link rel="stylesheet" href="{% static 'assets/user/css/responsive.css' %}">
+
+    
+    <!-- FAVICONS -->
+  
+    <link rel="shortcut icon" href="{% static 'uploaded_file/uploads/62ded9271a8061658771751.png' %}">
+
+ 
+
+</head>
+<body class="direction-ltr">
+<!-- Modal content-->
+<!-- Pre Loader Area start -->
+<div id="preloader">
+    <div id="status" style="background-image: url(../../../static/uploaded_file/uploads/62ded9271dce21658771751.png)"></div>
+</div>
+<!-- Pre Loader Area End -->
+
+<!--Main Menu/Navbar Area Start -->
+
+<!-- Desktop Menu Start -->
+<section class="menu-section-area ">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="{% url 'major:index' %}"><img src="uploaded_file/uploads/62deda0403e6d1658771972.png" alt="Botsplit NFT"></a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav text-capitalize mr-auto">
+                    
+                     <li class="nav-item">
+                        <a class="nav-link " href="{% url 'major:index' %}">Home</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link " href="{% url 'major:explore' %}">Explore</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="{% url 'major:faq' %}">FAQ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="{% url 'major:news' %}">News</a>
+                    </li>
+                    
+                      <li class="nav-item">
+                        <a class="nav-link " href="{% url 'major:contact' %}">Contact us</a>
+                    </li>
+                    
+                </ul>
+                <div class="header-right-nav my-2 my-lg-0 d-flex">
+                  <!--  <form class="searchbox" method="GET" action="#">
+                        <input type="hidden" id="search-url" value="https://botsplit.com/search-result-ajax">
+                        <input type="text" placeholder="Search..." name="keyword" class="searchbox-input" id="search-service" autocomplete="off">
+                        <button type="submit" class="searchbox-submit searchbox-icon nav-search menu-round-btn"><i class="fas fa-search"></i></button>
+                        <span class="searchbox-icon"><i class="fas fa-search"></i></span>
+                        
+                        <div class="menu-search-result-dropdown-box position-absolute d-none" id="search-work">
+                            <ul class="list-unstyled" id="search-result">
+                            </ul>
+                        </div>
+                        
+                    </form> -->
+                    <ul class="header-right-menu-ul">
+                        <li class="nav-item dropdown language-dropdown">
+                            <button class="menu-round-btn dropdown-toggle" id="notificationNavbarDropdown1" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fa fa-language"></i>
+                            </button>
+
+                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="notificationNavbarDropdown1">
+                                                                    <a class="dropdown-item notification-item d-flex align-items-center " href="connectwallet.html?lang=ar">
+                                        <div class="notification-right-content">
+                                            <h6 class="font-medium font-dms">Arabic</h6>
+                                        </div>
+                                    </a>
+                                    <div class="dropdown-divider"></div>
+                                                                    <a class="dropdown-item notification-item d-flex align-items-center " href="connectwallet.html?lang=en">
+                                        <div class="notification-right-content">
+                                            <h6 class="font-medium font-dms">English</h6>
+                                        </div>
+                                    </a>
+                                    <div class="dropdown-divider"></div>
+                                                                    <a class="dropdown-item notification-item d-flex align-items-center " href="connectwallet.html?lang=es">
+                                        <div class="notification-right-content">
+                                            <h6 class="font-medium font-dms">Spanish</h6>
+                                        </div>
+                                    </a>
+                                    <div class="dropdown-divider"></div>
+                                                            </div>
+
+                        </li>
+                        <!-- If isLoginMenu Then Show Menu User Box -->
+                                                    <li><a data-toggle="modal" href="#signInModal" class="theme-button1 nav-upload">Upload</a></li>
+                            <li class="nav-wallet"><a data-toggle="modal" href="#signInModal" class="theme-button2">Sign Up</a></li>
+                                        <!-- If isLoginMenu Then Show Menu User Box -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- Navigation -->
+</section>
+<!-- Desktop Menu End -->
+<!-- Start Mobile Header -->
+<div class="mobile-header ">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 d-flex align-items-center justify-content-between">
+                <!-- Start Mobile Left Side -->
+                <div class="mobile-header-left">
+                    <ul class="mobile-menu-logo">
+                        <li>
+                            <a href="index.html">
+                                <div class="logo">
+                                    <img src="assets/user/img/botsplit-logo.png" alt="Botsplit NFT" />
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- End Mobile Left Side -->
+                <!-- Start Mobile Right Side -->
+                <div class="mobile-right-side">
+                    <ul class="header-action-link d-flex align-items-center">
+                                                <li>
+                            <a href="#mobile-menu-offcanvas" class="offcanvas-toggle offside-menu">
+                                <i class="fas fa-bars"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- End Mobile Right Side -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Mobile Header -->
+
+<!--  Start Offcanvas Mobile Menu Section -->
+<div id="mobile-menu-offcanvas" class="offcanvas offcanvas-rightside offcanvas-mobile-menu-section">
+    <!-- Start Offcanvas Header -->
+    <div class="offcanvas-header text-right">
+        <button class="offcanvas-close">
+            <img src="assets/user/img/cancel.svg" alt="cancel" />
+        </button>
+    </div>
+    <!-- End Offcanvas Header -->
+    <!-- Start Offcanvas Mobile Menu Wrapper -->
+    <div class="offcanvas-mobile-menu-wrapper">
+        <!-- Start Mobile Menu  -->
+        <div class="mobile-menu-bottom">
+            <!-- Start Mobile Menu Nav -->
+            <div class="offcanvas-menu">
+                <ul>
+                    
+                    <li><a href="index.html"><span>Home</span></a></li>
+                    
+                    <li><a href="discover.html"><span>Explore</span></a></li>
+                    <li><a href="how-it-works.html"><span>FAQ</span></a></li>
+                    <li><a href="news.html"><span>News</span></a></li>
+                    
+                     <li><a href="contact.html"><span>Contact us</span></a></li>
+
+                   
+
+                </ul>
+            </div>
+            <!-- End Mobile Menu Nav -->
+            <!-- Offcanvas extra Info Wrap Start -->
+            <div class="header-right-nav">
+                <form class="mobile-search position-relative w-100">
+                    <input type="text" placeholder="Search..." name="search" class="w-100">
+                    <button type="button" class="nav-search menu-round-btn mobile-search-btn"><i class="fas fa-search"></i></button>
+                </form>
+                <ul>
+                                            <li><a data-toggle="modal" href="#signInModal" class="theme-button1 nav-upload w-100">upload</a></li>
+                        <li><a data-toggle="modal" href="#signInModal" class="theme-button2 nav-wallet w-100">Connect Wallet</a></li>
+                                    </ul>
+            </div>
+            <!-- Offcanvas extra Info Wrap End -->
+        </div>
+        <!-- End Mobile Menu -->
+    </div>
+    <!-- End Offcanvas Mobile Menu Wrapper -->
+</div>
+<!--  End Offcanvas Mobile Menu Section -->
+
+<!-- Offcanvas Overlay -->
+<div class="offcanvas-overlay"></div>
+ 
+            
+               <div id="filter-url" data-url="https://botsplit.com/filter-service"></div>
+    <section class="page-banner-area p-0">
+        <div class="container">
+            <div class="inner-page-single-dot1 position-absolute"><img src="assets/user/img/footer-img/footer-dot1.png" alt="dot"></div>
+            <div class="inner-page-single-dot2 position-absolute"><img src="assets/user/img/footer-img/footer-dot2.png" alt="dot"></div>
+            <div class="inner-page-single-dot3 position-absolute"><img src="assets/user/img/footer-img/footer-dot3.png" alt="dot"></div>
+            <div class="row page-banner-top-space">
+                <div class="col-12 col-lg-12">
+                    <div class="page-banner-content text-center">
+                        <h1 class="page-banner-title">Connect Wallet and Login</h1>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <section class="breadcrumb-section p-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav aria-label="breadcrumb" class="breadcrumb-area">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Connect Wallet</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="search-page-area section-t-space section-b-90-space">
+        <div class="container">
+            <div class="row">
+                
+                    
+                        
+                        <div class="col-lg-3 col-md-3">
+                                        <div class="mulaconnect">
+                                            <div class="img">
+                                                <img src="assets/images/icon/icon-1.png" alt="Image">
+                                            </div>
+                                            <h4 class="heading"><a data-toggle="modal" href="#signInModal">Meta Mask</a> </h4>
+                                            <p class="content"></p>
+                                        </div>
+                                        </div>
+                                         <div class="col-lg-3 col-md-3">
+                                        <div class="mulaconnect">
+                                            <div class="img">
+                                                <img src="assets/images/icon/icon-6.png" alt="Image">
+                                            </div>
+                                            <h4 class="heading"><a data-toggle="modal" href="#signInModal"> Bitski</a></h4>
+                                            <p class="content"></p>
+                                        </div>
+                                         </div>
+                                         <div class="col-lg-3 col-md-3">
+                                             
+                                        <div class="mulaconnect">
+                                            <div class="img">
+                                                <img src="assets/images/icon/Vector.png" alt="Image">
+                                            </div>
+                                            <h4 class="heading"><a data-toggle="modal" href="#signInModal">Fortmatic</a> </h4>
+                                            <p class="content"></p>
+                                        </div>
+                                        
+                                         </div>
+                                         <div class="col-lg-3 col-md-3">
+                                        <div class="mulaconnect">
+                                            <div class="img">
+                                                <img src="assets/images/icon/WalletConnect.png" alt="Image">
+                                            </div>
+                                            <h4 class="heading"><a data-toggle="modal" href="#signInModal">Wallet Connect</a> </h4>
+                                            <p class="content"></p>
+                                        </div>
+                                        
+                                         </div>
+                                         <div class="col-lg-3 col-md-3">
+                                         <div class="mulaconnect">
+                                            <div class="img">
+                                                <img src="assets/images/icon/icon-2.png" alt="Image">
+                                            </div>
+                                            <h4 class="heading"><a data-toggle="modal" href="#signInModal">Coinbase Wallet</a> </h4>
+                                            <p class="content"></p>
+                                        </div>
+                                        
+                                         </div>
+                                         <div class="col-lg-3 col-md-3">
+                                        <div class="mulaconnect">
+                                            <div class="img">
+                                                <img src="assets/images/icon/icon-3.png" alt="Image">
+                                            </div>
+                                            <h4 class="heading"><a data-toggle="modal" href="#signInModal">Authereum</a> </h4>
+                                            <p class="content"></p>
+                                        </div>
+                                         </div>
+                                         <div class="col-lg-3 col-md-3">
+                                         <div class="mulaconnect">
+                                            <div class="img">
+                                                <img src="assets/images/icon/icon-4.png" alt="Image">
+                                            </div>
+                                            <h4 class="heading"><a data-toggle="modal" href="#signInModal">Kaikas</a> </h4>
+                                            <p class="content"></p>
+                                        </div>
+                                        
+                                         </div>
+                                         <div class="col-lg-3 col-md-3">
+                                        <div class="mulaconnect">
+                                            <div class="img">
+                                                <img src="assets/images/icon/icon-5.png" alt="Image">
+                                            </div>
+                                            <h4 class="heading"><a data-toggle="modal" href="#signInModal">Torus</a> </h4>
+                                            <p class="content"></p>
+                                        </div>
+                                    </div>  
+                    
+               
+                   </div>
+                   </section>
+          
+        
+<!-- Footer Start -->
+<footer class="footer-area position-relative">
+    <!-- footer elements start -->
+    <img src="assets/user/img/footer-img/footer-rect-shape.png" alt="shape" class="footer-rect-shape position-absolute">
+    <img src="assets/user/img/footer-img/footer-dot1.png" alt="dot" class="footer-dot1 position-absolute">
+    <img src="assets/user/img/footer-img/footer-dot2.png" alt="dot" class="footer-dot2 position-absolute">
+    <img src="assets/user/img/footer-img/footer-dot3.png" alt="dot" class="footer-dot3 position-absolute">
+    <!-- footer elements end -->
+    <div class="container">
+        <!-- .footer-widget-area -->
+        <div class="row footer-top-part section-p-t-b-100">
+            <div class="col-12 col-sm-6 col-md-6 col-lg-6">
+                <div class="footer-widget footer-about">
+                    <img src="uploaded_file/uploads/62deda0403e6d1658771972.png" width="150px" alt="Botsplit NFT">
+                    <p>Botsplit is an aggregator of all NFT marketplaces and the world's first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.</p>
+                </div>
+            </div>
+            <div class="col-12 col-sm-3 col-md-3 col-lg-3">
+                <div class="footer-widget">
+                    <h6>Links</h6>
+                    <div class="footer-links d-flex">
+                        <ul>
+                            <li><a href="discover.html">Explore</a></li>
+                            <li><a href="how-it-works.html">FAQ</a></li>
+                             <li><a href="news.html">News</a></li>
+                              <li><a href="contact.html">Contact Us</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="https://www.linkedin.com/company/botsplit/">LinkedIn</a></li>
+                             <li><a href="https://twitter.com/botsplitnfts?s=21&amp;t=Xj3xxodjuqev9EWWVFFC5Q">Twitter</a></li>
+                             <li><a href="https://t.me/+0Rhy_aEOmDBmMGJh">Telegram</a></li>
+                             <li><a href="https://discord.gg/6MVH5WfB">Discord</a></li>
+                             <li><a href="https://www.instagram.com/botsplit/">Instagram</a></li>
+                          <!--  
+                                                            <li><button data-toggle="modal" data-target="#signInModal">Sign In </button></li>
+                                <li><button data-toggle="modal" data-target="#signUpModal">Sign Up</button></li>
+                             -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-4 col-md-3 col-lg-3">
+                <div class="footer-widget footer-newsletter">
+                    <h6>Join Newsletter</h6>
+                    <p>Subscribe our newsletter to get more free design course and resource
+                    </p>
+                    <div class="footer-links">
+                        <form method="POST" action="https://botsplit.com/subscriber-store" accept-charset="UTF-8" data-handler="showMessage" class="ajax"><input name="_token" type="hidden" value="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+                            <div class="form-group position-relative mb-2">
+                                <input type="email" class="form-control" id="email-address" name="email_address" placeholder="Enter your email">
+                                <button type="submit" class="position-absolute"><i class="fas fa-arrow-right"></i></button>
+                            </div>
+                        </form>
+                        <small class="ajax-alert"></small>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--copyright-text-->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="copyright-wrapper d-flex justify-content-center align-items-center">
+                    <div class="copyright-text">
+                        <p>Copyright @ 2022 Botsplit NFT. All rights reserved</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Footer End -->
+<!-- All Modal Placed Here Start -->
+    <!-- Sign Up Modal Start -->
+    <div class="modal fade common-modal " id="signUpModal" tabindex="-1" aria-labelledby="signUpModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header p-0">
+                    <h4 class="modal-title" id="signUpModalLabel">Create an account</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body p-0 ajax-alert">
+                    <p class="already-have-account">Already have an account? <a data-toggle="modal" href="#signInModal" class="color-green font-semi-bold">Sign In</a></p>
+                    <form method="POST" action="https://botsplit.com/sign-up-process" accept-charset="UTF-8" data-handler="showMessage" class="ajax" enctype="multipart/form-data"><input name="_token" type="hidden" value="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+
+                    <div class="form-group">
+                        <input class="form-control" placeholder="Email Address" name="email" type="email" required>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-12 col-lg-6">
+                                <input class="form-control" placeholder="First name" name="first_name" type="text" required>
+                            </div>
+                            <div class="col-12 col-lg-6">
+                                <input class="form-control" placeholder="Last name" name="last_name" type="text" required>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <input class="form-control password" placeholder="Password" type="password" name="password" required>
+                        <span class="toggle cursor fas fa-eye pass-icon"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <input class="form-control password" placeholder="Confirm Password" type="password" name="password_confirmation" required>
+                        <span class="toggle cursor fas fa-eye pass-icon"></span>
+                    </div>
+
+                    <div class="terms-policy-box">
+                        <label class="d-flex align-items-start">
+                            <input type="checkbox" checked="checked" name="remember">
+                            <span>By creating an account you agree to our <a href="#" class="color-green">Privacy Policy</a> and <a href="#" class="color-green">Terms of Service.</a></span>
+                        </label>
+                    </div>
+
+                    <div class="sign-up-button-part">
+                        <button class="theme-button1 w-100">Sign Up</button>
+                    </div>
+
+                    <div class="sign-up-social-part">
+                        <p class="recaptcha-text">Protected by reCAPTCHA and subject to the Google <a href="#" class="color-green">Privacy Policy</a> and <a href="#" class="color-green">Terms of Service.</a></p>
+                    </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Sign Up Modal End -->
+    <!-- Sign In Modal Start -->
+    <div class="modal fade common-modal " id="signInModal" tabindex="-1" aria-labelledby="signInModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header p-0 ">
+                    <h4 class="modal-title" id="signInModalLabel">Sign in</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body p-0 ajax-alert">
+                    <p class="already-have-account">New user? <a data-toggle="modal" href="#signUpModal" class="color-green font-semi-bold">Create an account</a></p>
+                    <form method="POST" action="https://botsplit.com/login-process" accept-charset="UTF-8" data-handler="showMessage" class="ajax" enctype="multipart/form-data"><input name="_token" type="hidden" value="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+
+                    <div class="form-group">
+                        <input class="form-control" placeholder="Email Address" name="email" type="email" required>
+                    </div>
+                    <div class="form-group">
+                        <input class="form-control password" placeholder="Password" name="password" type="password" required>
+                        <span class="toggle cursor fas fa-eye pass-icon"></span>
+                    </div>
+                    <div class="sign-up-button-part">
+                        <a class="forget-pass-btn color-green border-0 font-semi-bold" data-toggle="modal" href="#forgetPasswordModal">Forgot password?</a>
+                        <button type="submit"  class="theme-button1">Sign In</button>
+                    </div>
+                    <div class="sign-up-social-part">
+                        <p class="recaptcha-text">Protected by reCAPTCHA and subject to the Google <a href="#" class="color-green">Privacy Policy</a>
+                            and <a href="#" class="color-green">Terms of Service.</a></p>
+                    </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Sign In Modal End -->
+
+    <!-- Forget Password Modal Start -->
+    <div class="modal fade common-modal" id="forgetPasswordModal" tabindex="-1" aria-labelledby="forgetPasswordModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header p-0">
+                    <h4 class="modal-title" id="forgetPasswordModalLabel">Forget Password</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body p-0 ajax-alert">
+                    <p class="already-have-account">We will send reset code in this email.</p>
+                <form method="POST" action="https://botsplit.com/send-forgot-mail" accept-charset="UTF-8" data-handler="showMessage" enctype="multipart/form-data"><input name="_token" type="hidden" value="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+                        <!-- forget-pass-box form -->
+                        <div class="form-group">
+                            <input class="form-control" placeholder="Email Address" name="email" type="email" required>
+                        </div>
+                        <div class="sign-up-button-part">
+                            <button type="submit" class="theme-button1">Submit</button>
+                        </div>
+                        <!-- forget-pass-box form -->
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Forget Password Modal End -->
+<!-- Purchase1 modal start -->
+<!-- Purchase1 modal end -->
+<!-- Purchase3 modal start -->
+<div class="modal fade common-modal purchase-inner-modal" id="purchase3Modal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header p-0">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body p-0">
+                <!-- Change Price Modal Box Start -->
+                <div class="change-price-box checkout-content-box">
+                    <div class="purchase-done-box">
+                        <h3>Yeah!</h3>
+                        <p>You successfully purchased C O I N Z from example name
+                        </p>
+                    </div>
+                    <div class="purchase-status-table p-3">
+                        <table class="table">
+                            <tbody>
+                            <tr>
+                                <td>Status</td>
+                                <th scope="row">Transaction ID</th>
+                            </tr>
+                            <tr>
+                                <td class="color-green">Processing</td>
+                                <th scope="row">0msx836930...87r398</th>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!-- Change Price Modal Box End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Purchase3 modal end -->
+<div class="modal fade common-modal purchase-inner-modal" id="notAuthModal" tabindex="-1" aria-labelledby="notAuthModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header p-0">
+                <h4 class="modal-title" id="purchaseNotModalLabel">Alert</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body p-0">
+                <!-- Change Price Modal Box Start -->
+                <div class="change-price-box checkout-content-box">
+                    <div class="purchasing-process-box align-items-center" id="purchase-loader">
+
+                        <div class=" purchasing-process-right">
+                            <h6 class="steps__info">Please login first!</h6>
+                            <div class="steps__text">Your are not logged in! please login first<br><br><a data-dismiss="modal" data-toggle="modal" href="#signInModal" class="theme-button1 nav-upload" id="login-first">Login Now</a></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Change Price Modal Box End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- All Modal Placed Here End -->
+
+<!-- ======================================
+    All Jquery Script link
+===========================================-->
+
+<!-- Bootstrap core JavaScript -->
+<script src="{% static 'assets/user/vendor/jquery/jquery-3.6.0.min.js' %}"></script> 
+
+<script src="{% static 'assets/user/vendor/jquery/popper.min.js' %}"></script>
+<script src="{% static 'assets/user/vendor/bootstrap/js/bootstrap.min.js' %}"></script>
+
+<!-- ==== Plugin JavaScript ==== -->
+
+<script src="{% static 'assets/user/vendor/jquery-easing/jquery.easing.min.js' %}"></script>
+
+<script src="{% static 'assets/user/js/jquery-ui.min.js' %}"></script>
+
+<!--WOW JS Script-->
+<script src="{% static 'assets/user/js/wow.min.js' %}"></script>
+
+<!--WayPoints JS Script-->
+<script src="{% static 'assets/user/js/waypoints.min.js' %}"></script>
+
+<!--Counter Up JS Script-->
+<script src="{% static 'assets/user/js/jquery.counterup.min.js' %}"></script>
+
+<script src="{% static 'assets/user/js/owl.carousel.min.js' %}"></script>
+
+<!--Countdown Script-->
+
+<!--niceSelect JS Script-->
+<script src="{% static 'assets/user/js/jquery.nice-select.min.js' %}"></script>
+
+<script src="{% static 'assets/user/js/TweenMax.min.js' %}"></script>
+
+<!-- Range Slider -->
+<script src="{% static 'assets/user/js/price_range_script.js' %}"></script>
+
+<!-- Menu js -->
+<script src="{% static 'assets/user/js/menu.js' %}"></script>
+
+<!-- Datatables js -->
+<script src="{% static 'assets/user/vendor/datatable/js/jquery.dataTables.min.js' %}"></script>
+<script src="{% static 'assets/user/vendor/datatable/js/dataTables.bootstrap4.min.js' %}"></script>
+<script src="{% static 'assets/user/vendor/datatable/js/dataTables.responsive.min.js' %}"></script>
+
+<!-- Custom scripts for this template -->
+<script src="{% static 'assets/user/js/custom.js' %}"></script>
+
+<script src="{% static 'assets/user/js/qrcode.min.js' %}"></script>
+
+<!-- Bootstrap core JavaScript -->
+<script src="{% static 'assets/user/js/common.js' %}"></script>
+
+  
+ 
+
+<script>
+function myFunction() {
+  /* Get the text field */
+  var copyText = document.getElementById("mulainput");
+
+  /* Select the text field */
+  copyText.select();
+
+  /* Copy the text inside the text field */
+  document.execCommand("copy");
+
+  /* Alert the copied text */
+  alert("Copied the text: " + copyText.value);
+} 
+</script>
+</body>
+
+
+<!-- Mirrored from botsplit.com/connectwallet by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 May 2023 21:02:46 GMT -->
+</html>

@@ -1,0 +1,1313 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from botsplit.com/seller-profile/eyJpdiI6IjZpcEs0MGZDSDJOTnJSeUVUc0diK3c9PSIsInZhbHVlIjoid3pPazloNFRmU1dPem85RWhiUU8zUT09IiwibWFjIjoiMzMyMDUxZjk3ZmRjMDkzMDBmN2ExNGE5N2RmZmQzN2RkZGJmMWZhZWJlM2RmNmJhNmYxOTgyMTNlOTljNzFkNiJ9 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 May 2023 22:43:05 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="NFT Buy/Sell Marketplace">
+    <meta name="keywords" content="crypto currency, currency, crypto, nft marketplace, NFT, nft, NFT marketplace">
+    <meta name="author" content="zainiktheme">
+    <meta name="csrf-token" content="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+    <meta property="og:type" content="Web Template">
+    <meta property="og:title" content="BOTSPLIT NFT -  Buy/Sell Marketplace">
+    <meta property="og:description" content="NFT Buy/Sell Marketplace">
+    <meta property="og:image" content="../assets/user/img/01_preview.html">
+    <meta name="twitter:card" content="zainiktheme">
+    <meta name="twitter:title" content="BOTSPLIT NFT -  Buy/Sell Marketplace">
+    <meta name="twitter:description" content="NFT Buy/Sell Marketplace">
+  
+
+        <title>BOTSPLIT NFT</title>
+    <!--=======================================
+      All Css Style link
+    ===========================================-->
+    <!-- Bootstrap core CSS -->
+    <link href="../assets/user/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="../assets/user/css/jquery-ui.min.css" rel="stylesheet">
+
+    <!-- Font Awesome for this template -->
+    <link href="../assets/user/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Flat Icon for this template -->
+    <link href="../assets/user/vendor/flat-icon/flaticon.css" rel="stylesheet" type="text/css">
+
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet">
+
+    <!-- Animate Css-->
+    <link rel="stylesheet" href="../assets/user/css/animate.min.css">
+
+    <link rel="stylesheet" href="../assets/user/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../assets/user/css/owl.theme.default.min.css">
+
+    <!-- DataTables -->
+    <link rel="stylesheet" type="text/css" href="../assets/user/vendor/datatable/css/dataTables.bootstrap4.min.css"/>
+    <link rel="stylesheet" type="text/css" href="../assets/user/vendor/datatable/css/responsive.dataTables.min.css"/>
+
+    <link rel="stylesheet" href="../assets/user/css/nice-select.css">
+
+    <!-- Custom styles for this template -->
+    <link href="../assets/user/css/style.css" rel="stylesheet">
+    <!-- Extra CSS -->
+    <link href="../assets/user/css/extra.css" rel="stylesheet">
+
+    <!-- Responsive Css-->
+    <link rel="stylesheet" href="../assets/user/css/responsive.css">
+
+    
+    <!-- FAVICONS -->
+  
+    <link rel="shortcut icon" href="../../www.botsplit.com/uploaded_file/uploads/62ded9271a8061658771751.png">
+
+ 
+
+</head>
+<body class="direction-ltr">
+<!-- Modal content-->
+<!-- Pre Loader Area start -->
+<div id="preloader">
+    <div id="status" style="background-image: url(../uploaded_file/uploads/62ded9271dce21658771751.png)"></div>
+</div>
+<!-- Pre Loader Area End -->
+
+<!--Main Menu/Navbar Area Start -->
+
+<!-- Desktop Menu Start -->
+<section class="menu-section-area ">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="../index.html"><img src="../uploaded_file/uploads/62deda0403e6d1658771972.png" alt="Botsplit NFT"></a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav text-capitalize mr-auto">
+                    
+                     <li class="nav-item">
+                        <a class="nav-link " href="../index.html">Home</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link " href="../discover.html">Explore</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="../how-it-works.html">FAQ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="../news.html">Noticias</a>
+                    </li>
+                    
+                      <li class="nav-item">
+                        <a class="nav-link " href="../contact.html">Contact us</a>
+                    </li>
+                    
+                </ul>
+                <div class="header-right-nav my-2 my-lg-0 d-flex">
+                  <!--  <form class="searchbox" method="GET" action="#">
+                        <input type="hidden" id="search-url" value="https://botsplit.com/search-result-ajax">
+                        <input type="text" placeholder="Search..." name="keyword" class="searchbox-input" id="search-service" autocomplete="off">
+                        <button type="submit" class="searchbox-submit searchbox-icon nav-search menu-round-btn"><i class="fas fa-search"></i></button>
+                        <span class="searchbox-icon"><i class="fas fa-search"></i></span>
+                        
+                        <div class="menu-search-result-dropdown-box position-absolute d-none" id="search-work">
+                            <ul class="list-unstyled" id="search-result">
+                            </ul>
+                        </div>
+                        
+                    </form> -->
+                    <ul class="header-right-menu-ul">
+                        <li class="nav-item dropdown language-dropdown">
+                            <button class="menu-round-btn dropdown-toggle" id="notificationNavbarDropdown1" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fa fa-language"></i>
+                            </button>
+
+                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="notificationNavbarDropdown1">
+                                                                    <a class="dropdown-item notification-item d-flex align-items-center " href="../product/view/eyJpdiI6IkZ5WllhMUJsUFZvUjdIUzd3MlN1K2c9PSIsInZhbHVlIjoiZDZ4cjZhNmFld2pYeDBtYUMzd20yQT09IiwibWFjIjoiYzAyNTJkNjk1MDI3MDQ3NGU1MGFkM2UxZTgwYTNjZWIxMzJiNTlkNzBmZjNjNTg2NjYyMjZkZGM5MzVkM2E3OCJ9.2?lang=ar">
+                                        <div class="notification-right-content">
+                                            <h6 class="font-medium font-dms">Arabic</h6>
+                                        </div>
+                                    </a>
+                                    <div class="dropdown-divider"></div>
+                                                                    <a class="dropdown-item notification-item d-flex align-items-center " href="../product/view/eyJpdiI6IkhwbGlIalBINkYwMUpvOEZQVHhLNEE9PSIsInZhbHVlIjoiOGJaZ2RUWkVwUWVKUWJOUmJ0M1hOZz09IiwibWFjIjoiNWQ4OTg1ODBhYzY1MWE2MjQ1YWY3ZjZmNmJhYjk2MTZiNGMyOTE0Y2M2NTIyZDEwNTkyNDMxNzUwMjljZDljYiJ9.3?lang=en">
+                                        <div class="notification-right-content">
+                                            <h6 class="font-medium font-dms">English</h6>
+                                        </div>
+                                    </a>
+                                    <div class="dropdown-divider"></div>
+                                                                    <a class="dropdown-item notification-item d-flex align-items-center unread" href="../product/view/eyJpdiI6InBISUdMOUQ5UmszdXdCLzNqT2ZqT0E9PSIsInZhbHVlIjoibnROWXpFMjBYbFdUZGN3aFhLVk1FQT09IiwibWFjIjoiYzY1NjgxNjMwMzA3ZTQ2OGU0NDk4OWY4ZTczODE1N2EwZTI1YjA4YmVjNzEzNWUyYzFmOTM0NWFhYjVmYTMxYyJ9.7?lang=es">
+                                        <div class="notification-right-content">
+                                            <h6 class="font-medium font-dms">Spanish</h6>
+                                        </div>
+                                    </a>
+                                    <div class="dropdown-divider"></div>
+                                                            </div>
+
+                        </li>
+                        <!-- If isLoginMenu Then Show Menu User Box -->
+                                                    <li><a data-toggle="modal" href="#signInModal" class="theme-button1 nav-upload">Subir</a></li>
+                            <li class="nav-wallet"><a data-toggle="modal" href="#signInModal" class="theme-button2">Sign Up</a></li>
+                                        <!-- If isLoginMenu Then Show Menu User Box -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- Navigation -->
+</section>
+<!-- Desktop Menu End -->
+<!-- Start Mobile Header -->
+<div class="mobile-header ">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 d-flex align-items-center justify-content-between">
+                <!-- Start Mobile Left Side -->
+                <div class="mobile-header-left">
+                    <ul class="mobile-menu-logo">
+                        <li>
+                            <a href="../index.html">
+                                <div class="logo">
+                                    <img src="../assets/user/img/botsplit-logo.png" alt="Botsplit NFT" />
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- End Mobile Left Side -->
+                <!-- Start Mobile Right Side -->
+                <div class="mobile-right-side">
+                    <ul class="header-action-link d-flex align-items-center">
+                                                <li>
+                            <a href="#mobile-menu-offcanvas" class="offcanvas-toggle offside-menu">
+                                <i class="fas fa-bars"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- End Mobile Right Side -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Mobile Header -->
+
+<!--  Start Offcanvas Mobile Menu Section -->
+<div id="mobile-menu-offcanvas" class="offcanvas offcanvas-rightside offcanvas-mobile-menu-section">
+    <!-- Start Offcanvas Header -->
+    <div class="offcanvas-header text-right">
+        <button class="offcanvas-close">
+            <img src="../assets/user/img/cancel.svg" alt="cancel" />
+        </button>
+    </div>
+    <!-- End Offcanvas Header -->
+    <!-- Start Offcanvas Mobile Menu Wrapper -->
+    <div class="offcanvas-mobile-menu-wrapper">
+        <!-- Start Mobile Menu  -->
+        <div class="mobile-menu-bottom">
+            <!-- Start Mobile Menu Nav -->
+            <div class="offcanvas-menu">
+                <ul>
+                    
+                    <li><a href="../index.html"><span>Home</span></a></li>
+                    
+                    <li><a href="../discover.html"><span>Explore</span></a></li>
+                    <li><a href="../how-it-works.html"><span>FAQ</span></a></li>
+                    <li><a href="../news.html"><span>Noticias</span></a></li>
+                    
+                     <li><a href="../contact.html"><span>Contact us</span></a></li>
+
+                   
+
+                </ul>
+            </div>
+            <!-- End Mobile Menu Nav -->
+            <!-- Offcanvas extra Info Wrap Start -->
+            <div class="header-right-nav">
+                <form class="mobile-search position-relative w-100">
+                    <input type="text" placeholder="Search..." name="search" class="w-100">
+                    <button type="button" class="nav-search menu-round-btn mobile-search-btn"><i class="fas fa-search"></i></button>
+                </form>
+                <ul>
+                                            <li><a data-toggle="modal" href="#signInModal" class="theme-button1 nav-upload w-100">cancelar</a></li>
+                        <li><a data-toggle="modal" href="#signInModal" class="theme-button2 nav-wallet w-100">Conectar billetera</a></li>
+                                    </ul>
+            </div>
+            <!-- Offcanvas extra Info Wrap End -->
+        </div>
+        <!-- End Mobile Menu -->
+    </div>
+    <!-- End Offcanvas Mobile Menu Wrapper -->
+</div>
+<!--  End Offcanvas Mobile Menu Section -->
+
+<!-- Offcanvas Overlay -->
+<div class="offcanvas-overlay"></div>
+    <!-- Page Banner Area start here  -->
+    <section class="page-banner-area p-0" style="background-image: url(../uploaded_file/uploads/62ded9271f0321658771751.html);">
+        <div class="container">
+            <!-- Page Banner element -->
+            <div class="inner-page-single-dot1 position-absolute"><img src="../assets/user/img/footer-img/footer-dot1.png" alt="punto"></div>
+            <div class="inner-page-single-dot2 position-absolute"><img src="../assets/user/img/footer-img/footer-dot2.png" alt="punto"></div>
+            <div class="inner-page-single-dot3 position-absolute"><img src="../assets/user/img/footer-img/footer-dot3.png" alt="punto"></div>
+            <!-- Page Banner element -->
+            <div class="row page-banner-top-space">
+                <div class="col-12 col-lg-12">
+                    <div class="page-banner-content text-center">
+                        <h1 class="page-banner-title">Beth NFT</h1>
+                        <p class="page-banner-para">Canada</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Page Banner Area end here  -->
+    <!-- Page Breadcrumb Area start here  -->
+    <section class="breadcrumb-section p-0">
+        <div class="container">
+            <div class="row">
+                <!-- Breadcrumb Area -->
+                <div class="col-12">
+                    <nav aria-label="breadcrumb" class="breadcrumb-area">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="../index.html">Casa</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Perfil</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Page Breadcrumb Area end here  -->
+    <!-- Profile Page Area start here  -->
+    <section class="profile-page-area other-profile-page-area section-t-space section-b-90-space">
+        <div class="container">
+            <div class="row">
+                <!-- Profile Sidebar Area Start -->
+                <div class="col-12 col-md-4 col-lg-3">
+                    <div class="search-sidebar-wrap user-profile-sidebar-wrap">
+                        <div class="user-profile-img">
+                            <img src="../uploaded_file/users/6317e40db37ca.jpg" alt="usuario">
+                        </div>
+                        <div class="user-profile-sidebar-name">
+                            <h5>Beth NFT</h5>
+                            <h6>Canada</h6>
+                            <p class="user-profile-sidebar-about font-13">I am Beth Digital Artist, Character Designer and NFT Creator Trying Spread Beauty and Love Through Art</p>
+                            <div class="user-profile-url">
+                                <a href="#" class="font-14"></a>
+                            </div>
+                        </div>
+                        <div class="user-profile-sidebar-follow-box">
+                                                            <button class="theme-button1 user-follow-btn" data-toggle="modal" data-target="#notAuthModal">Seguir</button>
+                                                        <button class="menu-round-btn theme-border"><i class="far fa-flag"></i></button>
+                        </div>
+                        <div class="user-profile-sidebar-social-box">
+                            <ul class="d-flex align-items-center justify-content-center">
+                                <li><a href="javascript:void(0)" class="mx-2 p-2"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="javascript:void(0)" class="mx-2 p-2"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="https://instagram.com/beth_nft?igshid=YmMyMTA2M2Y=" class="mx-2 p-2"><i class="fab fa-instagram"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="membership-status">Miembro desde 11 Aug, 2022</div>
+                    </div>
+                </div>
+                <!-- Profile Sidebar Area End -->
+                <!-- Profile rightside Area -->
+                <div class="col-12 col-md-8 col-lg-9">
+                    <div class="search-rightside-area">
+                        <!-- Tab Nav -->
+                        <div class="artists-nav-wrap d-flex justify-content-between">
+                            <ul class="nav nav-tabs tab-nav-list border-0" role="tablist">
+                                <li class="nav-item">
+                                    <a class="nav-link active" data-toggle="tab" href="#Today" role="tab">All </a>
+                                </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" data-toggle="tab" href="#Game1" role="tab">Juego</a>
+                                    </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" data-toggle="tab" href="#Game2" role="tab">Fotografía</a>
+                                    </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" data-toggle="tab" href="#Game3" role="tab">Música</a>
+                                    </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" data-toggle="tab" href="#Game4" role="tab">ART</a>
+                                    </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" data-toggle="tab" href="#Game5" role="tab">deporte</a>
+                                    </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" data-toggle="tab" href="#Game6" role="tab">Collectibles</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                        <!-- Tab Nav -->
+                        <!-- Tab Content -->
+                        <div class="tab-content">
+                            <div class="top-artist-warp tab-pane active" id="Today" role="tabpanel">
+                                <div class="row">
+                                    <!-- Explore item start -->
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62ee7ad464233.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">350.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6ImROQmZiRzJSRi9SV1ZIdDhwbWJyaXc9PSIsInZhbHVlIjoiWTk5MUhOeks0M1ZjVVQyVy9ERTVIZz09IiwibWFjIjoiMjgzNmUwNmQ0ODRjZjEwZGI4NDZkMGVkNjhlNzc4ZmMwN2VmZjZjNzE4MmYyYWU5ZTZiMjIxMDkzNjU3YTJiNyJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IjliVHNSOERmY0t0Y291YTljclJzTXc9PSIsInZhbHVlIjoidHNIQ3U1UWNicjNkcitsVzhHbm1ZZz09IiwibWFjIjoiN2IwZmIwY2Y4ZGNhOWM5ZDIzMWI3YTgyYjkwOGMzYTU5Yjg4OTUzZDRiNzAzYzU2MTc2YzE2OTJkMDRlMjg0ZSJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6InRlam5kRHBUT0hZYy9JR2UwZkVPakE9PSIsInZhbHVlIjoiWTZSbndJeGdNQ2pWMHN1QVpCTDFyZz09IiwibWFjIjoiMzI4ODg4MjJhOGU4ZGQ5YWQ2NDVkNjI3M2U2ZmM2OWU1YTBjNjk2ODkxMTZmYmE1MjkyYzY2MTViNGViZTU1ZCJ9.8"><h5 class="font-semi-bold">Casemiro (Originals #132/149)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/631885a7a72b2.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">730.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IjAyZjBhaGFpc0EyUU42UFFKVFF2YWc9PSIsInZhbHVlIjoiMEZ3b3BNMUtlUUVwZk13QWNoU3lwZz09IiwibWFjIjoiMjY5ZTRjN2ZlODhkZDIxOGIwMDAwNWFmMmNiMmViYzg4ZjA1NjI4NTY5YTY2YWFmNWU2NDhkMTNiMzJiN2E0NiJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IjdJZ2ZMb0J4Z1FnY3g2U0tyVGpGU2c9PSIsInZhbHVlIjoiTlBSZkRackpJeWlFajNuV3RQN3dNUT09IiwibWFjIjoiMjc5Y2ZmNTc0MTViMjhiNjEyN2JlMzFjODkzOTM4ZDVkNTFiNTNlNTgwM2U4ZmQ5ZjNmZDM4NzdjMzEwMDZiZiJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IlFHY2dOcEtlb21hYlZscGJJSjRLMUE9PSIsInZhbHVlIjoiQnhleGhoUkFGTk5JbU8rcmNRRXZRZz09IiwibWFjIjoiZDY1MGM5YmFkNTQyNjgxMTFjZTFjNGFlOTk1YzVkM2I1ZDEyNjg4NzQ0OWE3ZjI3MmExMjJlMWFiMjM3NjViNSJ9.8"><h5 class="font-semi-bold">Beth NFT #072 (Princess Aurora)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/6318867e5be2c.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">760.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IktSYjROZ2pyVnFwRWUxUm5WbG54cnc9PSIsInZhbHVlIjoiMFdaSHdtN0VGaEdCYTljZlNNNHN0dz09IiwibWFjIjoiNjBjZmMyYmRiMWJkYjMwMjI0NDVhN2QyNjhiYTZkZWIyNjRhMmY2MzBlZjc3ODYyYjUwNjdkOTkxNGY4OTY5OCJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6InoxQVRRUnFCNVhqczVGWWJ2OFBKYUE9PSIsInZhbHVlIjoiOVBObGpUZGloV1lybkVmTEVRQmJFUT09IiwibWFjIjoiYmExYmIyY2E3YzVjMmRmM2QwZDQxMzE0YWNhOGU4NGMwMjZkYTA3MmQ5NzM3NTNmMDY0NjQ4M2Y1MjZjMTM5MCJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IkxSNUlONTB3SHhZb2dKWmp1RWtheUE9PSIsInZhbHVlIjoiUFd0OUhMVXZjQ1o5alFldWhxTUVNdz09IiwibWFjIjoiNTRhMTM1NjcxY2FhNjg5NWUyOTcwZmRmZDA2NjdmMjY1YjkyYjNiYTc5MjM1MTgzN2Q0ZDBiYjY2NGI0ZDM2YiJ9.8"><h5 class="font-semi-bold">Beth NFT #043 (Queen Emerald)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/631888808e8b7.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">1100.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6InMwVWFoS1AwbTRJTXI0Z3ZHMDkrZlE9PSIsInZhbHVlIjoiOFY3MFUxYzh0UWRSVFpRSHpJcDNmZz09IiwibWFjIjoiYjY4MmJiOGI0ZDNjOWY0MTdkNDdmOTc3MzA4ZTA5MjgzZGY5MzBlYjE4ZDMwZjgyZGIyZGQ1MTE4NGM5ZWM5OSJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IkxkbU9pbWgwZmRqOG9yZW1GYmc3elE9PSIsInZhbHVlIjoiTlNRSGJ0R0tFZUJhV21JYXQxYjI2UT09IiwibWFjIjoiN2EyNDU3NjM5MWI1ZjI1MzEwZjBiYzc1MzhmY2M0NDdlMDJmODgzYTNmNTY5ZDQ3MTY5YWIyMDQ4NjRlZmUxYyJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6Im43NjZyYmwrTVE0SnpYWVhHZGprbXc9PSIsInZhbHVlIjoiL0l2WG5xZnZqVVVwamlXMWlIL3Zwdz09IiwibWFjIjoiNGZkM2NlMmQ3YjY0Yzg3OTY2NGYzYmFiMmVmMTRjYjk3MTViNzg2ZjA1ODFlYzAzMTI3MzZjMjNjZmQ5OTY1MyJ9.8"><h5 class="font-semi-bold">Beth NFT #022 (Queen of the Sun)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/63188906c9748.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">1000.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6InZVU3dSRHMzODlWM08zZGtvZE9JWHc9PSIsInZhbHVlIjoiT2dWcEQzQWZ6dnRUMENiZWs2QVBydz09IiwibWFjIjoiNGI3ZmYyMjlkN2YzMDhhODQ3MWZmMTgyN2EzOTdlZDc0ZDllNzg5YTIwNmNkNTBiZmMzNmVhZjU3MDExZmQ1NCJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IitoSmFocncyNzVVYnFOS2hKNUNIU1E9PSIsInZhbHVlIjoid1hxM0VoNWxhMTgxeGVacmxaUGgrQT09IiwibWFjIjoiODhlYWJhMmVjNzY2ZjJmN2M2ZWE2MDVkNGVhYmZkZGNmNzE5ZmU1MmQ2NDY0YjUxODUxZWQzZDc4ZjA3MzY4MiJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6Ii9oUEdKdjlDaXBFYTdhS0VSQU1qSVE9PSIsInZhbHVlIjoiNmtiTVkrNVdqTmRxdHEwT3UrWWZrUT09IiwibWFjIjoiZjVlOTU2NDIyZjc0N2I3YjM1ZmZmMmExNzI4M2Y2YWM5NWQxNmE1NDZmNzVjYmExOTA5ODQwYmE2YjA4ODVmZCJ9.8"><h5 class="font-semi-bold">Beth NFT #298</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/631889bcdabb5.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">700.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6ImpBcHdyMFhIdkZxT016aHY5NERVUGc9PSIsInZhbHVlIjoicm44d3JtcGpNeEEydmdVTklPTmlwdz09IiwibWFjIjoiNjk5OTU3ZWViOTkxNGQ3YzdmZWVjZmY1ZmIxYjBlYzBhMzZiYThmMDBmMGY1ZDMyYjgwODhkMTlhNDA5ODZlYyJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IkxsZVVmb0ljYkJFV2NHeVZhVXhNUHc9PSIsInZhbHVlIjoiSXdrNVB3R3BiWmlUU1VDYmpjNzZydz09IiwibWFjIjoiYWY5M2U5NDE2YzA1MThjMTYxZDJjZjRmYTBkNjc5OTM3ZWMzOWIzNGIxNTJjZjVmZGUwMjQzZTIwMTcwZjg3ZiJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6ImplbnBEdVFYL2FQZGRNb1Y2SUxoL2c9PSIsInZhbHVlIjoiOENHd2ZpQzVsSVZQdmwrOThHbU03dz09IiwibWFjIjoiY2U3OGE2Y2I3YWM4NDU1NWM1YTBkMzE0NTlmY2QxN2IwMzFiODNjZDA1YmQ4NTYxNTMyYmQ3MDRmY2I0MzQxNiJ9.8"><h5 class="font-semi-bold">Beth NFT #145 (Koi spirit)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/63188a566aff1.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">1200.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6Im0vdmtWcUFoc0Iwb3BTREpId3d4OHc9PSIsInZhbHVlIjoiMzZNMWxxZXJ2M0hmQ1JkbHdpT1pFdz09IiwibWFjIjoiNzFkMDEyODk2YmFlMmY3NDY2YjM5OWMyNzE4NmIwNjE2MDkxNmZhZDhhOWM0MTFhNzI2ZWFhZDM3OTY3OWU3NSJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6ImlkeDJMdGVGdE45VytOOGtEZy9OMWc9PSIsInZhbHVlIjoiVWlZVW1JRUpZaXFMU0NhaGh1c1N2dz09IiwibWFjIjoiYjdlODhhZDkwZjc3YzU3ZTQ3Y2M0MzQxM2IwNTlkMTlhNzk1NDljYmVkNDQ2M2JhMDliNDY1NTdhNjA1ZWNhNiJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6InFCYzNDbUhWTDBsNUh6RmRveFVLRHc9PSIsInZhbHVlIjoiUzZyWTFGOTJmTnZObnR4NDUrVWVoQT09IiwibWFjIjoiNmEwNzk3ZjUwN2I0NjlkMjFkYzVhY2M5Zjk3MTNkZTM2NTZjZjc2ZDc2Y2M0YjM0MzIzMWRkMzc0ZGZjYjFkNSJ9.8"><h5 class="font-semi-bold">Beth NFT #674 (Tamer of Darkness)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                           
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/63188b097aecd.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">695.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IkhtM3l4VElaanhQSVhYanZ0YmZucGc9PSIsInZhbHVlIjoiUzlCQU9URWdld3ZWYVRlVmZqdEFUUT09IiwibWFjIjoiYWY3YTgyMjBkODYyODY4YzkxZGYyZGE1MGUxMmIxYzJiNjIzNjI3ZGM5MmE2Y2FhZmU2YzVlZDY0NWMwZTM2NCJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IjYzOVk3LzBOT09LY3kwRm1hYithd0E9PSIsInZhbHVlIjoiL3ZGMEtvZWZDSGVSRm4zU2VFRlhQZz09IiwibWFjIjoiMDc5ODE3OWM1ZTIwOTdiYmViN2E5ODYxMjU2YmYwYTJkODY2YjliNjBkZTI2M2I0ZjY0OWNhZmM3NGVhMmJhNCJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6Im9XeFEzaml6c1JKNnNiWGFIbWxaTVE9PSIsInZhbHVlIjoiTGJSNWZkMTdSNVhJRjJBMVVQRVJLQT09IiwibWFjIjoiMTkyNzEzNDE0YzE3ZGJjY2IxZDQ3NGI1MTUxNzdmYjRiNDBjMTU3NDRmZTk3ZDYwYzEwZDUzMDA1MjU4NjAzNiJ9.8"><h5 class="font-semi-bold">Beth NFT #099 (Queen Amber)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                       
+                                                                        <!-- Explore item end -->
+                                </div>
+                            </div>
+                                                            <div class="top-artist-warp fade tab-pane" id="Game1" role="tabpanel">
+                                    <div class="row">
+                                        <!-- Explore item start -->
+                                                                                    <div class="artist-item text-center">
+                                                <h1>Datos No Encontrados!</h1>
+                                            </div>
+                                                                                <!-- Explore item end -->
+                                    </div>
+                                </div>
+                                                            <div class="top-artist-warp fade tab-pane" id="Game2" role="tabpanel">
+                                    <div class="row">
+                                        <!-- Explore item start -->
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/64090b8e17a84.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">0.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IklsL3V4WEU5SDZjNktEcGhRa3BlRmc9PSIsInZhbHVlIjoidVY2dVhESnU5c2ZIL2pOMVdEcjdzUT09IiwibWFjIjoiM2M3YzNlNTdhMjRkZjQ0MmU2ZGI2NzYwYTBjMWNhYzk2ZGMyOGFlM2IyNWFkMzlkN2ZiMDBiYmQ4OWNhZjQ4YiJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IjRpQnVoSktXYVlnamw4dm9JRnVNK0E9PSIsInZhbHVlIjoiK0hwY0s1TFE4dC9pQTM1N3h1b0lRdz09IiwibWFjIjoiOTUyZmM5NDhjY2NmMmUwODc2NzdhYTAwNTEzODZkZjQ2NmU1ZDhmODBhMmRmNmI4ZDBkMjhiODdkMWQxMGJmMCJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IjFwb3NTWEdMZ080RUFYUUlXeWM0RVE9PSIsInZhbHVlIjoiL1M3YkwwWjVueDV1RWc5ZFMzOUcrQT09IiwibWFjIjoiMDkwN2ZkNzhlODI5NmQ2OGVmNjFkZDk5M2E2NGQ1MWE5NGRiYTMxOWMyMDMyYzU3YzE5ZDk2ZWQwZDdhYmQ3MCJ9.8"><h5 class="font-semi-bold">Yei</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>8th March</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Draft</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                <!-- Explore item end -->
+                                    </div>
+                                </div>
+                                                            <div class="top-artist-warp fade tab-pane" id="Game3" role="tabpanel">
+                                    <div class="row">
+                                        <!-- Explore item start -->
+                                                                                    <div class="artist-item text-center">
+                                                <h1>Datos No Encontrados!</h1>
+                                            </div>
+                                                                                <!-- Explore item end -->
+                                    </div>
+                                </div>
+                                                            <div class="top-artist-warp fade tab-pane" id="Game4" role="tabpanel">
+                                    <div class="row">
+                                        <!-- Explore item start -->
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/631885a7a72b2.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">730.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6Ii9WQm02Y0dkUTdlOHkyNTJpZlhQdVE9PSIsInZhbHVlIjoiQm00MWFVWS9kclFDcGF4NGhiN3hSdz09IiwibWFjIjoiY2E4ODI4MjdlNjI1ODkyM2U5MmQ5YzlhMGRhNTgwMTk5MTUzODU4NGJkZTQzMDc0NzhjZWY1ZGFmZWY0NDUzNyJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IldNQU5RWWRnbWN6RkYrZnkwTGJuNkE9PSIsInZhbHVlIjoiVVJFSEFUUXplMjlpSGdVeXU1dHd2Zz09IiwibWFjIjoiNzE3Yzg5ZjgxNTgwNTRlMjhiNDEzY2VkNmFmNDhhMWE1YmNmNWIwOTA0NDg4MDljOTBkNDg3ZWY3N2RkMTM0NSJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6InpxbkV4VHhMQ0Jxa3QvczVDODg4dXc9PSIsInZhbHVlIjoibm4vWHVxemh5STVEV0pWTkV1TjBHQT09IiwibWFjIjoiYzJmY2M5ODliNmNkN2ZmOTQzNzMxNjAxNThlZmFkZWQ5ZjYyZTEyYTc2YjY4NmZkZmZmNTcyMWM1N2Y1NzQ1ZSJ9.8"><h5 class="font-semi-bold">Beth NFT #072 (Princess Aurora)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/6318867e5be2c.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">760.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IktBTFpkdmtrYkdsTndRY1VmeVovdXc9PSIsInZhbHVlIjoiZmFNc3JxYStRaFhCZFdFQzNnRWE2dz09IiwibWFjIjoiMzY2ZWU5ZjllMTFmZTYzYjBhOTQ2OGZjYjI3YjMwYWI5OTg4MTQwNDQ1NzYzNTgxM2UzMDRhNWFjNzM0NDdlNiJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IlJBeTNJczFOaTM3T2ErbmdPUXU1T0E9PSIsInZhbHVlIjoiaHlCbEJTMHZOTk1tVzBNUldkVXZzQT09IiwibWFjIjoiN2JhOTg1MjljNTY2MDZhYzVjZDA1NmYwNjRmYjRiMDA3ODk1MDc5NWZjN2FkMDU1Y2U2NTUwZjg4ZDA1ZDhhYSJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IlllaVBGZGx0SVl6eHFBYWlGS2FadEE9PSIsInZhbHVlIjoiM2RnSk5xWHJTVTlPY29XcVVBb201QT09IiwibWFjIjoiMDBlY2E4YTYxYzg5ZjUyZGIyYzE4MzE0ZGJhYTMxYWM5ZmYxNWM2NDBiYjg1YTQyODVkZWYzZWNiMGE4Nzk3YiJ9.8"><h5 class="font-semi-bold">Beth NFT #043 (Queen Emerald)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/631888808e8b7.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">1100.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6Ii9xYjBDS2s3SVBYbWJMQy9hZC81T3c9PSIsInZhbHVlIjoiL3hLMmdzd1RYN01aVUtvUjFBNy9TZz09IiwibWFjIjoiYWFkNTg2ZDU4OWQ2ZTk0NzE5ODE1MTQzZDZkOWIxNGVhMDlkYzc0MWU2MTY0Y2U1MzRhOTdkM2ZmMTcxMGE0MCJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IkVnTm1NVzhjSGw5bjZ3akl3U2FFRHc9PSIsInZhbHVlIjoieHlBelA5UFFmNm9lcEVEQkh4U0xPQT09IiwibWFjIjoiYzQxMmEzNGIxNzk1NzU1ODAzMjNjMWVhM2U4NjA2YTUxOTAyNDQyNTJlMTU3MDEwY2FkZjFmYjgwZDg5NDkxMCJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6ImdQZEQ5WXNLMmk5U2x0VFJSNmJua0E9PSIsInZhbHVlIjoiWDZ6WkRnUEtXT2JycmJ6elpBcmMvUT09IiwibWFjIjoiYTQ2YjI1NjZhYmM0Y2JhNDI0YzMzY2Q4MjYxZGU3NDE5MTEyNDQzYzA1NDUyOGViNjc3ZjUwZDRmN2JhNGRhNSJ9.8"><h5 class="font-semi-bold">Beth NFT #022 (Queen of the Sun)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/63188906c9748.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">1000.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IndpYnlYL0ZabHRBcGdmQVVpdzE3Tmc9PSIsInZhbHVlIjoiUmNVcGt3VTgwbzExSXFLelMxV3ZVZz09IiwibWFjIjoiZGNmYTRlNTMwODhhZGMxMTNmYTEwNjlmYzNiMWE0YzQxNTViN2UzZWRlNThmN2M4M2M4NmRmNTUzZDZhNThhOSJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IlA2MkhhR3FjWi9rRkZZVE9hMEErQkE9PSIsInZhbHVlIjoiWTdLTHdvbXVRZFB2OGhkQ0Zudi9zZz09IiwibWFjIjoiMTQyMzhiNTE5MzQ2OTc4ZmViNTNkYjY1ODljMThhYWFlMGU3Nzc1NWY4ZWJjNTE5ZjQ2OWM3NTA3OWUwMGFiMiJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IjBDZ1hMdll4TWJyRWZaWkZ3aFc4Wmc9PSIsInZhbHVlIjoibHZLbU5LSzFYd1BJdzNqOHN5ZHQxUT09IiwibWFjIjoiOGQ5YjM4NmYxZjAwMTE1ZjgxOTJjZGJlZmZlOGRlNzhjZjllZjAzYzcyNzNjNjVmOWRlNGMzZGQ4NWM3NWIwZCJ9.8"><h5 class="font-semi-bold">Beth NFT #298</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/631889bcdabb5.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">700.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6Im5DQWpzRXZ4eWZDYWM1dDQ3a3g4N0E9PSIsInZhbHVlIjoiSktUWVRnUXh1dW42YUpKeVJnUksyUT09IiwibWFjIjoiYjhmYTIxZDViY2E5OGEzN2Q4Y2JlZTc3ZWZkMTcxZGRhYTRiYzMwMDEzM2E2MmM5OWFmYmQ3YTAzNDI0YjJiNiJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6IlQ5MVlFUVdSL0FYcmIrN0xZL1huZ1E9PSIsInZhbHVlIjoiQmorZFZjRWxiSW1oYXhlRmFGZlZPZz09IiwibWFjIjoiZTI2OGE5OWYyMzkyMmJkY2EzZDAxYWM0YmViMzJmNjFkNjBmYmNhN2EzYTk2YTk0OTNmZTc5YzI0NWZiNTNkOSJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6ImxtN04yZlg5aFczVVhkU0tsQ0kvSkE9PSIsInZhbHVlIjoiQnhPTTh2UHYrcjVxMksxNXZvUXV1UT09IiwibWFjIjoiNjU3ODhhMTBkYmMxYWNiNTczNmYzMGUxMmQ3MTAyZDZkMzhlNWJmZGRlMmMwNGNhZWM4MmEzYzg4MWUyMDRkMCJ9.8"><h5 class="font-semi-bold">Beth NFT #145 (Koi spirit)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/63188a566aff1.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">1200.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6Inh6anVISnlZd05zL29iREhRbmJRaEE9PSIsInZhbHVlIjoiZVA3aFJmellqUjJjMWR4eTRUcE9CUT09IiwibWFjIjoiZDU3YTU2NmYwOTMwNGJiNmM4MjYyMDUyZjQ2OWUyYjBkODU3MGE4NDAzMjQ5NjIwZjAzZGI3MmExZDE3ZDEyZSJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6Ikc5Q2ZER1ZkNmtkaTdWc3R5WHdTYXc9PSIsInZhbHVlIjoiNlBJcGVqWlMxUTRzcUdYMXNMQmIzZz09IiwibWFjIjoiYzUzMjliNTFiOWM4ZjFjMDNhMmNmYzUzNTkwMzA5NTg1NGQ5MWYzZjRlNDE1YzU4ZWE2OWNlODc0NmYzZDQzMCJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IjJ5WXZaLzlKVEN6NWhHUDNSaXdSRUE9PSIsInZhbHVlIjoiVktjcCtZdlIxRDhuQUtmbXRlWkFBQT09IiwibWFjIjoiY2FlZjY2YjBmMDA2MzY3Njg5NjM4ZTdkZTk2NzljMzdlMmYyNWM4NzFhNGZkNzE1YzgyMTU4NTRiNWYzYzc3YyJ9.8"><h5 class="font-semi-bold">Beth NFT #674 (Tamer of Darkness)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/63188b097aecd.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">695.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IndLSk8wUGRBMVAyRTBsTC9LVVBTbWc9PSIsInZhbHVlIjoiSnNaV2YrUzBId0ZLWnlZYUN4QjdXQT09IiwibWFjIjoiNjEzMjA0MGJkNzViMDkwMDdiMzJjMWYyMjRhOTc4MTIwMTFmZmFhNGU1MzE4NjUwZmZhM2I5ZjFiMDgxZTAyYiJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6ImhSNDd0THE3ck1QS0hlcWJMYkMxdFE9PSIsInZhbHVlIjoiL0k4MUd6cDlPU2NJU2ZVRUg5aFd4dz09IiwibWFjIjoiMTEzOWY3Y2U0NGIzMjIzYTExYmNhNDMzZDM0MGJjMWQzYzI1ZTY4NmNmZTY4YmM4M2U4NmIzZTA3ZjIyODc0NiJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6Imt1aHdSSWMzYkI5VFFVNkdKcGw0aFE9PSIsInZhbHVlIjoicUJFOExOYk56SUlGKzZwZnl0bnZkQT09IiwibWFjIjoiNmJmYjU3M2U0MjViMmUwOTRjNTI4N2YxYWRmNmQ2ZjdhOWUwOTUwYWMwMzIxZTQ5Njg3NjI2MGI1ZGM3NGFjZCJ9.8"><h5 class="font-semi-bold">Beth NFT #099 (Queen Amber)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Sold</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">0
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/63188be7a72dd.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">860.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6IjdkN29BY2pCM3Z4U0Y2dlY0Y3RnOVE9PSIsInZhbHVlIjoialpubVp1RGd4cWw5MnVRTXBMMDBndz09IiwibWFjIjoiMjJiNDM0ZmQwOTk3YjZkYjFkNTYxOGFmMDE1ZjY1NDdlMGQyODVhMGUzYWNhZGVmNGUyN2E1MmQzMTc2OWNhNyJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6InEzcjNsdWFmWTNjK0s0SS8yODNmQmc9PSIsInZhbHVlIjoiYjNCWDVMQnk2bEloWlh2bzRxeGlyQT09IiwibWFjIjoiNDJiNTg0NTlhYTJhZWQ0YzlmM2U4M2ZkOGVlOWMwOWE2YzE1ZTE0MGMxOWUyYjdiNGEwNmFjZmZmYTNiZTg0YyJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6ImZkNklrNk9EQVhMNVRkM011T0Z1U0E9PSIsInZhbHVlIjoiTHREMys3bmVlZk1CSHFUZ1hOa28zUT09IiwibWFjIjoiODUyNzIxMTU1Yzk1ZjFlMjlhMzk0OTdjZWM3YWM1YzI2M2MxZDg1OGIzY2FiY2Y3NDlkNzRiM2M5NDZkZDVjOCJ9.8"><h5 class="font-semi-bold">Beth NFT #049 (Bal Masque)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                <!-- Explore item end -->
+                                    </div>
+                                </div>
+                                                            <div class="top-artist-warp fade tab-pane" id="Game5" role="tabpanel">
+                                    <div class="row">
+                                        <!-- Explore item start -->
+                                                                                    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+                                                <div class="explore-item user-profile-item">
+                                                    <div class="artist-img position-relative">
+                                                        <img src="../uploaded_file/services/62ee7ad464233.jpg" alt="explorar-img" class="img-fluid">
+                                                        <div class="artist-overlay position-absolute">
+                                                            <div class="price-box-wrap d-flex align-items-center justify-content-between">
+                                                                                                                                    <div class="bg-green price-btn">350.00 USD</div>
+                                                                                                                                <a href="../product/view/eyJpdiI6ImJSbDFrT0tNQkRpTGFZcldBMU9qYVE9PSIsInZhbHVlIjoiWC9yR0RJUlczN3lDM2VnWitjZGRRQT09IiwibWFjIjoiMWUzNjBlYmRhZWFkNzA5NzA5ZGNkYWQ4NTI1Yjg0YmQ0MTdiYzkyYjMyODE1ZjhmMGJiMjBlOTI3NjJkZTEzMyJ9.8" class="bg-white add-like"><i class="fas fa-heart"></i></a>
+                                                            </div>
+                                                                                                                            <a href="../product/view/eyJpdiI6Im1OTldGQlhWZXd5UVF0bGxCdkl2aGc9PSIsInZhbHVlIjoib3IwUzRpYjcwODd1UVhPelY0cEc0UT09IiwibWFjIjoiNmUzNWJhMzAwODIxMDAwNGE0MWVjMDE5Y2ExYTNiMzI4Yjg5M2M3MWRhOTI0MjMxYmUwMGI0ODU3ZmUxZjVhNSJ9.8" class="place-a-bid-btn">Comprar Ahora</a>
+                                                                                                                    </div>
+                                                    </div>
+                                                    <div class="explore-content">
+                                                        <a href="../product/view/eyJpdiI6IllnSlF6M2VCMjNKZzVnaCszaFg4NGc9PSIsInZhbHVlIjoiUFFoMmVudU5HOWVCOFU2M2xuNEttZz09IiwibWFjIjoiMzgzOGUxMjM3YjRhNTU5YjQyOGVlNGExNTMwNTBjODlmMmZhNmM3YjVlMzgzNGM1MDM1Y2QzODM4NmExODk2OCJ9.8"><h5 class="font-semi-bold">Casemiro (Originals #132/149)</h5></a>
+                                                        <div class="explore-small-box explore-author-wrap d-flex align-items-center justify-content-between">
+                                                            <div class="explore-author d-flex align-items-center">
+                                                                <p>subido <span>7th September</span></p>
+                                                            </div>
+                                                            <div class="like-box">
+                                                                <i class="far fa-heart"></i> 0
+                                                            </div>
+                                                        </div>
+                                                        <div class="explore-small-box d-flex align-items-center justify-content-between">
+                                                            <p class="on-sell">Estado : <span>Approved</span></p>
+                                                            <p class="font-medium top-artist-stock-qty">1
+                                                                en stock</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                <!-- Explore item end -->
+                                    </div>
+                                </div>
+                                                            <div class="top-artist-warp fade tab-pane" id="Game6" role="tabpanel">
+                                    <div class="row">
+                                        <!-- Explore item start -->
+                                                                                    <div class="artist-item text-center">
+                                                <h1>Datos No Encontrados!</h1>
+                                            </div>
+                                                                                <!-- Explore item end -->
+                                    </div>
+                                </div>
+                                                    </div>
+                        <!-- Tab Content -->
+                    </div>
+                </div>
+                <!-- Profile rightside Area -->
+            </div>
+        </div>
+    </section>
+    <!-- Profile Page Area end here  -->
+
+<!-- Footer Start -->
+<footer class="footer-area position-relative">
+    <!-- footer elements start -->
+    <img src="../assets/user/img/footer-img/footer-rect-shape.png" alt="forma" class="footer-rect-shape position-absolute">
+    <img src="../assets/user/img/footer-img/footer-dot1.png" alt="punto" class="footer-dot1 position-absolute">
+    <img src="../assets/user/img/footer-img/footer-dot2.png" alt="punto" class="footer-dot2 position-absolute">
+    <img src="../assets/user/img/footer-img/footer-dot3.png" alt="punto" class="footer-dot3 position-absolute">
+    <!-- footer elements end -->
+    <div class="container">
+        <!-- .footer-widget-area -->
+        <div class="row footer-top-part section-p-t-b-100">
+            <div class="col-12 col-sm-6 col-md-6 col-lg-6">
+                <div class="footer-widget footer-about">
+                    <img src="../uploaded_file/uploads/62deda0403e6d1658771972.png" width="150px" alt="Botsplit NFT">
+                    <p>Botsplit is an aggregator of all NFT marketplaces and the world's first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital items.</p>
+                </div>
+            </div>
+            <div class="col-12 col-sm-3 col-md-3 col-lg-3">
+                <div class="footer-widget">
+                    <h6>Enlaces</h6>
+                    <div class="footer-links d-flex">
+                        <ul>
+                            <li><a href="../discover.html">Explore</a></li>
+                            <li><a href="../how-it-works.html">FAQ</a></li>
+                             <li><a href="../news.html">News</a></li>
+                              <li><a href="../contact.html">Contacta Con Nosotros</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="https://www.linkedin.com/company/botsplit/">LinkedIn</a></li>
+                             <li><a href="https://twitter.com/botsplitnfts?s=21&amp;t=Xj3xxodjuqev9EWWVFFC5Q">Twitter</a></li>
+                             <li><a href="https://t.me/+0Rhy_aEOmDBmMGJh">Telegram</a></li>
+                             <li><a href="https://discord.gg/6MVH5WfB">Discord</a></li>
+                             <li><a href="https://www.instagram.com/botsplit/">Instagram</a></li>
+                          <!--  
+                                                            <li><button data-toggle="modal" data-target="#signInModal">Iniciar Sesión </button></li>
+                                <li><button data-toggle="modal" data-target="#signUpModal">Inscribirse</button></li>
+                             -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-4 col-md-3 col-lg-3">
+                <div class="footer-widget footer-newsletter">
+                    <h6>Únete Al Boletín</h6>
+                    <p>Suscríbase a nuestro boletín para obtener más recursos y cursos de diseño gratuitos
+                    </p>
+                    <div class="footer-links">
+                        <form method="POST" action="https://botsplit.com/subscriber-store" accept-charset="UTF-8" data-handler="showMessage" class="ajax"><input name="_token" type="hidden" value="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+                            <div class="form-group position-relative mb-2">
+                                <input type="email" class="form-control" id="email-address" name="email_address" placeholder="Introduce tu correo electrónico">
+                                <button type="submit" class="position-absolute"><i class="fas fa-arrow-right"></i></button>
+                            </div>
+                        </form>
+                        <small class="ajax-alert"></small>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--copyright-text-->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="copyright-wrapper d-flex justify-content-center align-items-center">
+                    <div class="copyright-text">
+                        <p>Copyright @ 2022 Botsplit NFT. Reservados todos los derechos</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Footer End -->
+<!-- All Modal Placed Here Start -->
+    <!-- Sign Up Modal Start -->
+    <div class="modal fade common-modal " id="signUpModal" tabindex="-1" aria-labelledby="signUpModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header p-0">
+                    <h4 class="modal-title" id="signUpModalLabel">Crea una cuenta</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body p-0 ajax-alert">
+                    <p class="already-have-account">Ya tienes una cuenta? <a data-toggle="modal" href="#signInModal" class="color-green font-semi-bold">Iniciar Sesión</a></p>
+                    <form method="POST" action="https://botsplit.com/sign-up-process" accept-charset="UTF-8" data-handler="showMessage" class="ajax" enctype="multipart/form-data"><input name="_token" type="hidden" value="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+
+                    <div class="form-group">
+                        <input class="form-control" placeholder="Dirección de correo electrónico" name="email" type="email" required>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-12 col-lg-6">
+                                <input class="form-control" placeholder="Primer nombre" name="first_name" type="text" required>
+                            </div>
+                            <div class="col-12 col-lg-6">
+                                <input class="form-control" placeholder="Apellido" name="last_name" type="text" required>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <input class="form-control password" placeholder="Clave" type="password" name="password" required>
+                        <span class="toggle cursor fas fa-eye pass-icon"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <input class="form-control password" placeholder="Confirmar contraseña" type="password" name="password_confirmation" required>
+                        <span class="toggle cursor fas fa-eye pass-icon"></span>
+                    </div>
+
+                    <div class="terms-policy-box">
+                        <label class="d-flex align-items-start">
+                            <input type="checkbox" checked="checked" name="remember">
+                            <span>Al crear una cuenta, usted acepta nuestros <a href="#" class="color-green">Política de privacidad</a> and <a href="#" class="color-green">Términos de servicio.</a></span>
+                        </label>
+                    </div>
+
+                    <div class="sign-up-button-part">
+                        <button class="theme-button1 w-100">Inscribirse</button>
+                    </div>
+
+                    <div class="sign-up-social-part">
+                        <p class="recaptcha-text">Protegido por reCAPTCHA y sujeto a Google <a href="#" class="color-green">Política de privacidad</a> y <a href="#" class="color-green">Términos de servicio.</a></p>
+                    </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Sign Up Modal End -->
+    <!-- Sign In Modal Start -->
+    <div class="modal fade common-modal " id="signInModal" tabindex="-1" aria-labelledby="signInModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header p-0 ">
+                    <h4 class="modal-title" id="signInModalLabel">Registrarse</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body p-0 ajax-alert">
+                    <p class="already-have-account">Nuevo usuario? <a data-toggle="modal" href="#signUpModal" class="color-green font-semi-bold">Crea una cuenta</a></p>
+                    <form method="POST" action="https://botsplit.com/login-process" accept-charset="UTF-8" data-handler="showMessage" class="ajax" enctype="multipart/form-data"><input name="_token" type="hidden" value="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+
+                    <div class="form-group">
+                        <input class="form-control" placeholder="Dirección de correo electrónico" name="email" type="email" required>
+                    </div>
+                    <div class="form-group">
+                        <input class="form-control password" placeholder="Clave" name="password" type="password" required>
+                        <span class="toggle cursor fas fa-eye pass-icon"></span>
+                    </div>
+                    <div class="sign-up-button-part">
+                        <a class="forget-pass-btn color-green border-0 font-semi-bold" data-toggle="modal" href="#forgetPasswordModal">Se te olvidó tu contraseña?</a>
+                        <button type="submit"  class="theme-button1">Iniciar Sesión</button>
+                    </div>
+                    <div class="sign-up-social-part">
+                        <p class="recaptcha-text">Protegido por reCAPTCHA y sujeto a Google <a href="#" class="color-green">Política de privacidad</a>
+                            y <a href="#" class="color-green">Términos de servicio.</a></p>
+                    </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Sign In Modal End -->
+
+    <!-- Forget Password Modal Start -->
+    <div class="modal fade common-modal" id="forgetPasswordModal" tabindex="-1" aria-labelledby="forgetPasswordModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header p-0">
+                    <h4 class="modal-title" id="forgetPasswordModalLabel">Contraseña olvidada</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body p-0 ajax-alert">
+                    <p class="already-have-account">Enviaremos el código de reinicio en este correo electrónico.</p>
+                <form method="POST" action="https://botsplit.com/send-forgot-mail" accept-charset="UTF-8" data-handler="showMessage" enctype="multipart/form-data"><input name="_token" type="hidden" value="Dp411DIfP7mKE2xvZFN5balxc690PwyEaIMO17RE">
+                        <!-- forget-pass-box form -->
+                        <div class="form-group">
+                            <input class="form-control" placeholder="Dirección de correo electrónico" name="email" type="email" required>
+                        </div>
+                        <div class="sign-up-button-part">
+                            <button type="submit" class="theme-button1">Enviar</button>
+                        </div>
+                        <!-- forget-pass-box form -->
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Forget Password Modal End -->
+<!-- Purchase1 modal start -->
+<!-- Purchase1 modal end -->
+<!-- Purchase3 modal start -->
+<div class="modal fade common-modal purchase-inner-modal" id="purchase3Modal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header p-0">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body p-0">
+                <!-- Change Price Modal Box Start -->
+                <div class="change-price-box checkout-content-box">
+                    <div class="purchase-done-box">
+                        <h3>sí!</h3>
+                        <p>Compró con éxito C O I N Z del nombre de ejemplo
+                        </p>
+                    </div>
+                    <div class="purchase-status-table p-3">
+                        <table class="table">
+                            <tbody>
+                            <tr>
+                                <td>Estado</td>
+                                <th scope="row">ID de transacción</th>
+                            </tr>
+                            <tr>
+                                <td class="color-green">Procesando</td>
+                                <th scope="row">0msx836930...87r398</th>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!-- Change Price Modal Box End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Purchase3 modal end -->
+<div class="modal fade common-modal purchase-inner-modal" id="notAuthModal" tabindex="-1" aria-labelledby="notAuthModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header p-0">
+                <h4 class="modal-title" id="purchaseNotModalLabel">Alerta</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body p-0">
+                <!-- Change Price Modal Box Start -->
+                <div class="change-price-box checkout-content-box">
+                    <div class="purchasing-process-box align-items-center" id="purchase-loader">
+
+                        <div class=" purchasing-process-right">
+                            <h6 class="steps__info">Por favor ingresa primero!</h6>
+                            <div class="steps__text">Your are not logged in! please login first<br><br><a data-dismiss="modal" data-toggle="modal" href="#signInModal" class="theme-button1 nav-upload" id="login-first">Inicia sesión ahora</a></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Change Price Modal Box End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- All Modal Placed Here End -->
+
+<!-- ======================================
+    All Jquery Script link
+===========================================-->
+
+<!-- Bootstrap core JavaScript -->
+<script src="../assets/user/vendor/jquery/jquery-3.6.0.min.js"></script> 
+
+<script src="../assets/user/vendor/jquery/popper.min.js"></script>
+<script src="../assets/user/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+<!-- ==== Plugin JavaScript ==== -->
+
+<script src="../assets/user/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<script src="../assets/user/js/jquery-ui.min.js"></script>
+
+<!--WOW JS Script-->
+<script src="../assets/user/js/wow.min.js"></script>
+
+<!--WayPoints JS Script-->
+<script src="../assets/user/js/waypoints.min.js"></script>
+
+<!--Counter Up JS Script-->
+<script src="../assets/user/js/jquery.counterup.min.js"></script>
+
+<script src="../assets/user/js/owl.carousel.min.js"></script>
+
+<!--Countdown Script-->
+
+<!--niceSelect JS Script-->
+<script src="../assets/user/js/jquery.nice-select.min.js"></script>
+
+<script src="../assets/user/js/TweenMax.min.js"></script>
+
+<!-- Range Slider -->
+<script src="../assets/user/js/price_range_script.js"></script>
+
+<!-- Menu js -->
+<script src="../assets/user/js/menu.js"></script>
+
+<!-- Datatables js -->
+<script src="../assets/user/vendor/datatable/js/jquery.dataTables.min.js"></script>
+<script src="../assets/user/vendor/datatable/js/dataTables.bootstrap4.min.js"></script>
+<script src="../assets/user/vendor/datatable/js/dataTables.responsive.min.js"></script>
+
+<!-- Custom scripts for this template -->
+<script src="../assets/user/js/custom.js"></script>
+
+<script src="../assets/user/js/qrcode.min.js"></script>
+
+<!-- Bootstrap core JavaScript -->
+<script src="../assets/user/js/common.js"></script>
+
+  
+ 
+
+<script>
+function myFunction() {
+  /* Get the text field */
+  var copyText = document.getElementById("mulainput");
+
+  /* Select the text field */
+  copyText.select();
+
+  /* Copy the text inside the text field */
+  document.execCommand("copy");
+
+  /* Alert the copied text */
+  alert("Copied the text: " + copyText.value);
+} 
+</script>
+</body>
+
+
+<!-- Mirrored from botsplit.com/seller-profile/eyJpdiI6IjZpcEs0MGZDSDJOTnJSeUVUc0diK3c9PSIsInZhbHVlIjoid3pPazloNFRmU1dPem85RWhiUU8zUT09IiwibWFjIjoiMzMyMDUxZjk3ZmRjMDkzMDBmN2ExNGE5N2RmZmQzN2RkZGJmMWZhZWJlM2RmNmJhNmYxOTgyMTNlOTljNzFkNiJ9 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 May 2023 22:43:05 GMT -->
+</html>
